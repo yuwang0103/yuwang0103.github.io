@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. Before that, he received his Ph.D. in the Computer Science Department at Vanderbilt University under the supervision of Dr. Tyler Derr. 
+Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. Before that, he received his Ph.D. in the Computer Science Department at Vanderbilt University. 
 
 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
@@ -25,7 +25,7 @@ Research Interests:
 - GenAI + Graph
 - AI/ML Applications: Information Retrieval/Science/Infrastructure/Cyber-security
 
-Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/YuWVandy), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
+Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwang0103), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
 News
 ======
@@ -43,7 +43,7 @@ News
 <li>[05] My collaborated paper with The Home Depot Knowledge Graph for Session Recommendation has been selected as the Spotlight Presentation at Industrial Track!</li>
 <li>[05] Invited to give a keynote talk at the Workshop of <a href='https://advanced-recommender-systems.github.io/llm4graph/'>Large Language Models for Graph Learning</a> at WWW'24!</li>
 <li>[04] Our survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> has been accepted at TIST!</li>
-<li>[04] Slides of our SDM'24 <a href='https://yuwvandy.github.io/_pages/tutorial_ppt.pdf'>Tutorial</a> on Data Quality-Aware Graph Machine Learning is available!</li>
+<li>[04] Slides of our SDM'24 <a href='https://yuwang0103.github.io/_pages/tutorial_ppt.pdf'>Tutorial</a> on Data Quality-Aware Graph Machine Learning is available!</li>
 <li>[04] Honored to receive the Best Doctoral Forum Poster Runner-ups at SDM'24!</li>
 <li>[04] Invited to give a keynote talk at the workshop of <a href='https://dssmh.github.io/'>Data Science for Smart Manufacturing and Healthcare</a> at SDM'24</li>
 <li>[03] Our paper on KG for Session Recommendation has been selected as the Oral Presentation at WWW'24 Industrial Track!</li>
