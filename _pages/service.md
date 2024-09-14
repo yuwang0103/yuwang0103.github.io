@@ -4,7 +4,7 @@ title: "Service"
 permalink: /service/
 author_profile: true
 ---
-You can find my most up-to-date service [here](https://yuwvandy.github.io/_pages/CV.pdf#nameddest=EXTERNAL%20SERVICES).
+You can find my most up-to-date service [here](https://yuwang0103.github.io/_pages/CV.pdf#nameddest=EXTERNAL%20SERVICES).
 
 **Workshop Organizer**
 - **Machine Learning on Graphs (MLoG)**, Web Chair
