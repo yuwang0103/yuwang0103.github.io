@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Most up-to-date teaching experiences are [here](https://yuwvandy.github.io/_pages/CV.pdf#nameddest=TEACHING%20EXPERIENCE)
+Most up-to-date teaching experiences are [here](https://yuwang0103.github.io/_pages/CV.pdf#nameddest=TEACHING%20EXPERIENCE)
 
 **Course**
 - Network Analysis and Graph Machine Learning - TBD
