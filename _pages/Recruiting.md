@@ -18,8 +18,9 @@ The University of Oregon (UO), founded in 1876, is a nationally renowned public 
 - Requirement: For PhD, the suggested TOEFL from the department is beyond 88 and the GRE is optional, see [here](https://scds.uoregon.edu/cs/graduate-programs/phd) for more detailed information.
 
 **Research Areas and Interests**
-- Machine Learning on Graphs, Graph Foundational Models, Graph Neural Networks
-- Data-centric AI: Discovery, and Mitigation of Data-quality Issues such as Imbalance, Topology, and Limited Data
+- Data Mining and Machine Learning
+- Machine Learning on Graphs
+- Data-centric AI: Imbalance, Bias, Distribution Shift, Anomaly and Limited Data, etc.
 - Trustworthy AI: Explainability, Fairness, Uncertainty, etc.
 - Graph AI Applications for Science, Infrastructure, Information Retrieval, Cybersecurity
 
@@ -31,7 +32,7 @@ The University of Oregon (UO), founded in 1876, is a nationally renowned public 
 
 **Resources Provided:**
 - Full scholarship funding (TA/RA)
-- Sufficient computing resources (plans to purchase a server with 6-8 A6000s)
+- Sufficient computing resources
 - Encouragement and support for attending domestic/international academic conferences
 - Established good cooperation with several universities and companies (HomeDepot, Adobe Research, Visa, Snap), with excellent Ph.D. students recommended for summer/in-semester internships
 - Comprehensive guidance and advice. Since my Ph.D., I have realized the importance of good communication and mental health for the life/study of Ph.D. students. Therefore, I usually spend at least 1 to 3 hours per week discussing projects and chatting with Ph.D. students and interns.
