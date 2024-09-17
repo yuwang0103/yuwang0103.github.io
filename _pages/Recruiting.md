@@ -14,7 +14,7 @@ The University of Oregon (UO), founded in 1876, is a nationally renowned public 
 
 **Basic Information**
 - Target: PhD/Master/Intern
-- Contact Information: yuwangjack.hit@gmail.com/yuwang@uoregon.edu
+- Contact Information: yuwang@uoregon.edu
 - Requirement: For PhD, the suggested TOEFL from the department is beyond 88 and the GRE is optional, see [here](https://scds.uoregon.edu/cs/graduate-programs/phd) for more detailed information.
 
 **Research Areas and Interests**
