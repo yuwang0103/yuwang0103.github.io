@@ -19,9 +19,9 @@ Research Interests:
 ------
 - Data Mining and Machine Learning
 - Graph and Geometric Machine Learning
-- Data-centric AI and Trustworthy Graph Machine Learning
-- GenAI + Graph
-- AI/ML Applications: Information Retrieval/Science/Infrastructure/Cyber-security
+- Trustworthy Machine Learning on LLM and Knowledge Graph
+- Data-centric Machine Learning on Generative Graph Machine Learning
+- AI/ML Applications: Information Retrieval/Chemistry/Infrastructure/Cyber-security
 
 Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
