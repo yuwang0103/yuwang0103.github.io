@@ -25,7 +25,8 @@ University and City Introduction:
 Basic Information:
 ------
 - Contact Information: yuwang@uoregon.edu
-- Requirement: For PhD, the suggested TOEFL from the department is beyond 88, and the GRE is optional; see [here](https://scds.uoregon.edu/cs/graduate-programs/phd) for more detailed information.
+- Requirement: For PhD, the suggested TOEFL from the department is beyond 88, and the GRE is optional; <br>
+See [here](https://scds.uoregon.edu/cs/graduate-programs/phd) for more detailed information.
 
 
 Resource Provided:
