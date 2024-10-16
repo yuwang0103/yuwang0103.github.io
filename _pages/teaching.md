@@ -7,7 +7,18 @@ author_profile: true
 Most up-to-date teaching experiences are [here](https://yuwang0103.github.io/_pages/CV.pdf#nameddest=TEACHING%20EXPERIENCE)
 
 **Course**
-- Network Analysis and Graph Machine Learning - TBD
+- [CS 410/510 Data Mining and Machine Learning on Graphs](https://ml-graph.github.io/fall-2024/)
+  <br> Undergraduate/Graduate, Fall 2024
+  <br> University of Oregon, Eugene, OR
+- CS 453 Data Mining
+  <br> Undergraduate/Graduate, Winter 2025
+  <br> University of Oregon, Eugene, OR
+- CS 610 Advanced Machine Learning
+  <br> Graduate, Spring 2025
+  <br> University of Oregon, Eugene, OR
+- CS 607 Special Topics in Graph Machine Learning
+  <br> Graduate, Spring 2025
+  <br> University of Oregon, Eugene, OR
 
 **Teaching Assistant**
 - CS4260: Artificial Intelligence
