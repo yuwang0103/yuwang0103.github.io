@@ -32,6 +32,7 @@ News
 🐲-2024
 -----
 <ul>
+<li>[11] Give a talk at the Welcome to Grad School seminar at University of Oregon!</li>
 <li>[10] Invited to give a talk at the online machine learning seminar at Vanderbilt University!</li>
 <li>[09] Our paper 📚 <a href='https://www.welqrate.org/'>Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking</a> is accepted at NeurIPS2024!</li>
 <li>[08] Invited to give a talk at the online webinar at the University of North Texas!</li>
