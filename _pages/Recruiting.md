@@ -8,7 +8,7 @@ Yu is an assistant professor in the computer science department of the School of
 So please reach out if interested.
 
 
-Research Interests:
+### Research Interests:
 ------
 - Data Mining and Machine Learning
 - Trustworthy Machine Learning on LLM and Knowledge Graph
@@ -17,7 +17,7 @@ Research Interests:
 - Agent Simulation, Planning, Reasoning and Collaboration
 - AI/ML Applications: Information Retrieval/Chemistry/Infrastructure
   
-University and City Introduction:
+### University of Oregon and Eugene
 ------
 The University of Oregon (UO), founded in 1876, is a nationally renowned public research university in the United States. UO is a Carnegie Research I (R1) university. According to the 2023 US News national university rankings, UO is ranked 98th overall and 49th among top public schools, with its computer science program ranked 71th according to US News and 87th according to CS ranking.  This historic institution has produced three Nobel laureates, 13 Pulitzer Prize winners, 19 Rhodes Scholars, and five Marshall Scholars.
 
@@ -25,16 +25,16 @@ Please look at the following two documents on why you want to choose the Univers
 - <a href='https://yuwang0103.github.io/_pages/UO.pdf' target="_blank">University of Oregon and Eugene</a>.
 - <a href='https://yuwang0103.github.io/_pages/Advisor.pdf' target="_blank">Right Advisor</a>.
 
-Basic Information:
+### Basic Information:
 ------
 - Contact Information: yuwang@uoregon.edu
-- Requirement: For PhD, the suggested TOEFL from the department is beyond 88, and the GRE is optional; <br>
-See [here](https://scds.uoregon.edu/cs/graduate-programs/phd) for more detailed information.
+- [Requirement](https://scds.uoregon.edu/cs/graduate-programs/phd): GRE is optional
+- [Application Fee Waiver](https://graduatestudies.uoregon.edu/admissions/how-to-apply/application-fee-waivers)
 
 
-Resource Provided:
+### Resource Provided:
 ------
 - Full Scholarship Funding (TA/RA)
-- Sufficient Computing Resources (A100/L40S)
+- Sufficient Computing Resources (University: 50*A100, Group: 4-8 L40S, Personal: 4090)
 - Tremendous Industrial Lab Collaboration and Internship Opportunities (Adobe Research, Visa, HomeDepot, Snap, Accenture)
 - Encouragement and support for attending domestic/international academic conferences
