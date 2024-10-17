@@ -14,7 +14,7 @@ So please reach out if interested.
 - Trustworthy Machine Learning on LLM and Knowledge Graph
 - Data-centric Machine Learning on Generative Graph Machine Learning
 - Spatial and Temporal Machine Learning
-- Agent Simulation, Planning, Reasoning and Collaboration
+- LLM-powered Agent Planning, Reasoning, Collaboration and Social Simulation
 - AI/ML Applications: Information Retrieval/Chemistry/Infrastructure
   
 ### University of Oregon and Eugene
