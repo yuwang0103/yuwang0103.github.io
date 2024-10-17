@@ -24,6 +24,7 @@ The University of Oregon (UO), founded in 1876, is a nationally renowned public 
 Please look at the following two documents on why you want to choose the University of Oregon/Eugene and why you deserve the right advisor for your Ph.D.
 - <a href='https://yuwang0103.github.io/_pages/UO.pdf' target="_blank">University of Oregon and Eugene</a>.
 - <a href='https://yuwang0103.github.io/_pages/Advisor.pdf' target="_blank">Right Advisor</a>.
+- Huge acknowledgment to my colleague Suyash for creating the above two documents.
 
 ### Basic Information:
 ------
