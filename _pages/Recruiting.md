@@ -22,9 +22,10 @@ So please reach out if interested.
 The University of Oregon (UO), founded in 1876, is a nationally renowned public research university in the United States. UO is a Carnegie Research I (R1) university. According to the 2023 US News national university rankings, UO is ranked 98th overall and 49th among top public schools, with its computer science program ranked 71th according to US News and 87th according to CS ranking.  This historic institution has produced three Nobel laureates, 13 Pulitzer Prize winners, 19 Rhodes Scholars, and five Marshall Scholars.
 
 Please look at the following two documents on why you want to choose the University of Oregon/Eugene and why you deserve the right advisor for your Ph.D.
-- <a href='https://yuwang0103.github.io/_pages/UO.pdf' target="_blank">University of Oregon and Eugene</a>.
+- <a href='https://yuwang0103.github.io/_pages/UO.pdf' target="_blank">University of Oregon and Eugene 1</a>.
+- <a href='https://cas.uoregon.edu/sites/default/files/2022-12/cs-graduate-brochure.pdf' target="_blank">University of Oregon and Eugene 2</a>.
 - <a href='https://yuwang0103.github.io/_pages/Advisor.pdf' target="_blank">Right Advisor</a>.
-- Huge acknowledgment to my colleague Suyash for creating the above two documents.
+- Huge acknowledgment to my colleagues for creating the above two documents.
 
 ### Basic Information:
 ------
