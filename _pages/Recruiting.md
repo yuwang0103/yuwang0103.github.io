@@ -38,9 +38,9 @@ Please look at the following two documents on why you want to choose the Univers
 ------
 - Full Scholarship Funding (TA/RA)
 - Sufficient Computing Resources <br>
-  - [University RACs](https://racs.uoregon.edu/services): 16H100, 14A100
-  - Group: 4-8 L40S
-  - Personal: 4090
+  - [University RACs](https://racs.uoregon.edu/services): 16H100, 52A100
+  - Group: 2*L40S/Ph.D.
+  - Personal: 1*4090/Ph.D.
   - OpenAI-API key provided for LLM research
 - Tremendous Industrial Lab Collaboration and Internship Opportunities
   <br> (Adobe Research, Visa, HomeDepot, Snap, Accenture)
