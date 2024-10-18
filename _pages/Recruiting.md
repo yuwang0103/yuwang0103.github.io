@@ -36,7 +36,8 @@ Please look at the following two documents on why you want to choose the Univers
 ### Resource Provided:
 ------
 - Full Scholarship Funding (TA/RA)
-- Sufficient Computing Resources (University: 50*A100, Group: 4-8 L40S, Personal: 4090, OpenAI-API key provided for LLM research)
+- Sufficient Computing Resources <br>
+(University: 50*A100, Group: 4-8 L40S, Personal: 4090, OpenAI-API key provided for LLM research)
 - Tremendous Industrial Lab Collaboration and Internship Opportunities
   <br> (Adobe Research, Visa, HomeDepot, Snap, Accenture)
 - Encouragement and support for attending domestic/international academic conferences
