@@ -11,10 +11,10 @@ So please reach out if interested.
 ### Research Interests:
 ------
 - Data Mining and Machine Learning
-- Trustworthy Machine Learning on LLM and Knowledge Graph
-- Data-centric Machine Learning on Generative Graph Machine Learning
+- Multi-purpose Driven Machine Learning for LLM + Semi-structured Knowledge Database 
+- Data-centric Machine Learning for Generative Graph Models
 - Spatial and Temporal Machine Learning
-- LLM-powered Agent Planning, Reasoning, Collaboration and Social Simulation
+- LLM-powered Agent Planning, Reasoning, Collaboration, and Social Simulation
 - AI/ML Applications: Information Retrieval/Chemistry/Infrastructure
   
 ### University of Oregon and Eugene
