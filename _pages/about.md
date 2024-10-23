@@ -18,11 +18,11 @@ Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at
 Research Interests:
 ------
 - Data Mining and Machine Learning
-- Multi-purpose Driven Machine Learning for LLM + Semi-structured Knowledge Database 
+- Multi-purpose Driven Machine Learning for LLM + Graph-structured Data 
 - Data-centric Machine Learning for Generative Graph Models
-- Spatial and Temporal Machine Learning
+- Spatial and Temporal Graph Machine Learning
 - LLM-powered Agent Planning, Reasoning, Collaboration, and Social Simulation
-- AI/ML Applications: Information Retrieval/Chemistry/Infrastructure
+- Graph AI/ML Applications: Information Retrieval/Chemistry/Infrastructure
 
 Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
