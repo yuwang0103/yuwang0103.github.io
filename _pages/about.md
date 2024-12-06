@@ -32,7 +32,7 @@ News
 🐲-2024
 -----
 <ul>
-<li>[12] Give a talk at the LoG Seattle meetup at the University of Washington!</li>
+<li>[12] Will give a talk at the LoG Seattle meetup at the University of Washington!</li>
 <li>[11] Our tutorial 📚 Empowering Retrieval-augmented Generation with Graph-structured Knowledge has been accepted at SDM2025!</li>
 <li>[10] Give a talk at the Welcome to Grad School seminar at the University of Oregon!</li>
 <li>[10] Our paper 📚 <a href='https://arxiv.org/html/2406.11685v1'>Imbalance Edge Classification</a> is accepted at WSDM2024!</li>
