@@ -18,8 +18,8 @@ Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at
 Research Interests:
 ------
 - Data Mining and Machine Learning
-- Multi-purpose Driven Machine Learning for LLM + Graph-structured Data 
-- Data-centric Machine Learning for Generative Graph Models
+- LLM + Graph-structured Data 
+- Generative Graph Models
 - Spatial and Temporal Graph Machine Learning
 - LLM-powered Agent Planning, Reasoning, Collaboration, and Social Simulation
 - Graph AI/ML Applications: Information Retrieval/Chemistry/Infrastructure
@@ -32,7 +32,8 @@ News
 🐲-2024
 -----
 <ul>
-<li>[12] Will give a talk at the LoG Seattle meetup at the University of Washington!</li>
+<li>[12] Our paper Reliable KG-QA has been accepted at AAAI 25!</li>
+<li>[12] Give a talk at the LoG Seattle meetup at the University of Washington!</li>
 <li>[11] Our tutorial 📚 Empowering Retrieval-augmented Generation with Graph-structured Knowledge has been accepted at SDM2025!</li>
 <li>[10] Give a talk at the Welcome to Grad School seminar at the University of Oregon!</li>
 <li>[10] Our paper 📚 <a href='https://arxiv.org/html/2406.11685v1'>Imbalance Edge Classification</a> is accepted at WSDM2024!</li>
