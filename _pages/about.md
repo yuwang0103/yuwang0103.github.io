@@ -32,6 +32,7 @@ News
 🐲-2024
 -----
 <ul>
+<li>[12] Thrilled to receive the outstanding reviewer award at <a href='https://ecmlpkdd.org/2024/organisation-area-chairs-and-reviewers/'>ADS-Track, ECML-PKDD</a>!</li>
 <li>[12] Our paper 📚 <a href='https://arxiv.org/abs/2410.08985'>Reliable RAG on KG</a> has been accepted at AAAI 25!</li>
 <li>[12] Give a talk on "Towards Well-Rounded GraphRAG" at the LoG Seattle meetup at the University of Washington!</li>
 <li>[11] Our tutorial 📚 Empowering Retrieval-augmented Generation with Graph-structured Knowledge has been accepted at SDM2025!</li>
