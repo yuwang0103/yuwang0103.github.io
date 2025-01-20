@@ -12,9 +12,9 @@ redirect_from:
 Education
 -----
 * Ph.D in Computer Science, Vanderbilt University
-  * Sept. 2019 - Now
+  * Sept. 2019 - May. 2024
 * B.S. in Harbin Institute of Technology
-  * Sept. 2015 - June 2019
+  * Sept. 2015 - June. 2019
 
 You can find my most up-to-date CV <a href='https://yuwang0103.github.io/_pages/CV.pdf' target="_blank">here</a>.
 
