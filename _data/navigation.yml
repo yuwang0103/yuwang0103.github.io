@@ -6,8 +6,8 @@ main:
   - title: "Publication"
     url: /publication/
     
-  # - title: "Research"
-  #   url: /research/
+  - title: "Lab"
+    url: https://kindlab-fly.github.io/
     
   - title: "CV"
     url: /cv/
