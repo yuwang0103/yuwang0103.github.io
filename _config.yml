@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YU WANG (王宇)"
+title                    : "YU WANG"
 title_separator          : "-"
-name                     : &name "YU WANG (王宇)"
+name                     : &name "YU WANG"
 description              : &description "personal description"
 url                      : https://yuwang0103.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
