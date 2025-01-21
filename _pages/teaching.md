@@ -10,7 +10,7 @@ Most up-to-date teaching experiences are [here](https://yuwang0103.github.io/_pa
 - [CS 410/510 Data Mining and Machine Learning on Graphs](https://ml-graph.github.io/fall-2024/)
   <br> Undergraduate/Graduate, Fall 2024
   <br> University of Oregon, Eugene, OR
-- CS 453 Data Mining
+- [CS 453 Data Mining](https://ml-graph.github.io/winter-2025/)
   <br> Undergraduate/Graduate, Winter 2025
   <br> University of Oregon, Eugene, OR
 - CS 610 Advanced Machine Learning
