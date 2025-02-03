@@ -30,7 +30,7 @@ News
 ======
 
 
-🐍-2024
+🐍-2025
 -----
 <ul>
 <li>[01] Our paper 📚 "Demystifying the Power of Large Language Models in Graph Generation" has been accepted at NAACL'25 Findings!</li>
