@@ -35,7 +35,7 @@ News
 <ul>
 <li>[01] Our paper 📚 "Demystifying the Power of Large Language Models in Graph Generation" has been accepted at NAACL'25 Findings!</li>
 <li>[01] Our paper 📚 <a href='https://arxiv.org/abs/2406.05109'>Large Generative Graph Models</a> has been accepted at ICLR 25!</li>
-<ul>
+</ul>
 🐲-2024
 -----
 <ul>
