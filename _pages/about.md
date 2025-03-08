@@ -33,7 +33,7 @@ News
 🐍-2025
 -----
 <ul>
-<li>[02] 🎉🎉🎉 Our workshop paper Machine Learning on Graphs in the Era of Artificial General Intelligence has been accepted at KDD2025!</li>
+<li>[02] 🎉🎉🎉 Our workshop paper ML on Graphs in the Era of Artificial General Intelligence has been accepted at KDD2025!</li>
 <li>[02] 🎉🎉🎉 My PhD student Riya has been selected as a fellow for the competitive 2025 Pulse Research Fellowship!</li>
 <li>[01] Our paper 📚 "Demystifying the Power of Large Language Models in Graph Generation" has been accepted at NAACL'25 Findings!</li>
 <li>[01] Our paper 📚 <a href='https://arxiv.org/abs/2406.05109'>Large Generative Graph Models</a> has been accepted at ICLR 25!</li>
