@@ -28,7 +28,7 @@ Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Tw
 
 News
 ======
-<span style="color:red">**Call for Paper:** We are organizing the MLoG-GenAI Workshop: <a href='https://mlgraphworkshop.github.io/'>Machine Learning on Graphs in the Era of Generative Artificial Intelligence</a> at KDD 2025! If you are working in relevant directions, don’t hesitate to submit your paper (the paper can be under review or published)!
+📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the MLoG-GenAI Workshop: <a href='https://mlgraphworkshop.github.io/'>Machine Learning on Graphs in the Era of Generative Artificial Intelligence</a> at KDD 2025! If you are working in relevant directions, don’t hesitate to submit your paper (the paper can be under review or published)!
 
 
 🐍-2025
