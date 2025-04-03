@@ -33,8 +33,12 @@ News
 🐍-2025
 -----
 <ul>
-<li>[02] 🎉🎉🎉 Our workshop paper ML on Graphs in the Era of Artificial General Intelligence has been accepted at KDD2025!</li>
-<li>[02] 🎉🎉🎉 My PhD student Riya has been selected as a fellow for the competitive 2025 Pulse Research Fellowship!</li>
+<li>[03] My student, Yongjia Lei, will begin her summer internship at Adobe Research on RAG for Document Intelligence!</li>
+<li>[03] Our paper 📚 <a href=''>GRS-QA - Graph Reasoning-Structured Question Answering Dataset</a> has been accepted at NAACL SRM'25!</li>
+<li>[03] Our paper 📚 <a href=''>Building Trust in Machine Learning-Powered Networking: The Network Explainer Framework</a> has been accepted at SDM-AI4TS'25!</li>
+<li>[02] My first student first leading author paper 📚 <a href='https://arxiv.org/abs/2502.20317'>Mixture of Structural-and-Textual Retrieval (MoR)</a> is online!</li>
+<li>[02] 🎉🎉🎉 Our workshop call <a href='https://mlgraphworkshop.github.io/'>ML on Graphs in the Era of Gen-AI</a> has been accepted at KDD2025!</li>
+<li>[02] 🎉🎉🎉 My co-advised PhD student Riya has been selected as a fellow for the competitive 2025 Pulse Research Fellowship!</li>
 <li>[01] Our paper 📚 "Demystifying the Power of Large Language Models in Graph Generation" has been accepted at NAACL'25 Findings!</li>
 <li>[01] Our paper 📚 <a href='https://arxiv.org/abs/2406.05109'>Large Generative Graph Models</a> has been accepted at ICLR 25!</li>
 </ul>
