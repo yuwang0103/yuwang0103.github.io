@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. Before that, he received his Ph.D. in the Computer Science Department at Vanderbilt University. 
+Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. Before that, he received his Ph.D. in Computer Science from Vanderbilt University. 
 
 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
@@ -35,7 +35,7 @@ News
 -----
 <ul>
 <li>[05] My first student's first work 📚 <a href='https://arxiv.org/abs/2502.20317'>Mixture of Structural-and-Textual Retrieval (MoR)</a> has been accepted at ACL 2025 Findings!</li>
-<li>[05] Our paper 📚 <a href='https://openreview.net/forum?id=ccYWyKCQUu#discussion'>From Selection to Generation: A Survey of LLM-based Active Learning</a> has been accepted at ACL 25 Findings!</li>
+<li>[05] Our paper 📚 <a href='https://openreview.net/forum?id=ccYWyKCQUu#discussion'>Click, Type, Repeat: A Comprehensive Survey on GUI Agents</a> has been accepted at ACL 25 Findings!</li>
 <li>[05] Our paper 📚 <a href='https://arxiv.org/abs/2502.11767'>From Selection to Generation: A Survey of LLM-based Active Learning</a> has been accepted at ACL 25 main!</li>
 <li>[05] Our paper 📚 <a href='https://arxiv.org/abs/2410.19214'>BTS: A Comprehensive Benchmark for Tie Strength Prediction</a> has been accepted at KDD 2025 Datasets and Benchmarks Track!</li>
 <li>[04] My student, Yongjia, has been awarded the SDM Doctorum Forum Poster Session Honorable Mention Award!</li>
