@@ -34,6 +34,8 @@ News
 🐍-2025
 -----
 <ul>
+<li>[05] Our paper 📚 <a href=''>Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks</a> has been accepted at IEEE Transactions on Network Science and Engineering (TNSE)!</li>
+<li>[05] Our paper 📚 <a href='https://arxiv.org/abs/2411.00027'>Personalization of Large Language Models: A Survey</a> has been accepted at Transactions on Machine Learning Research (TMLR)!</li>
 <li>[05] My first student's first work 📚 <a href='https://arxiv.org/abs/2502.20317'>Mixture of Structural-and-Textual Retrieval (MoR)</a> has been accepted at ACL 2025 Findings!</li>
 <li>[05] Our paper 📚 <a href='https://openreview.net/forum?id=ccYWyKCQUu#discussion'>Click, Type, Repeat: A Comprehensive Survey on GUI Agents</a> has been accepted at ACL 25 Findings!</li>
 <li>[05] Our paper 📚 <a href='https://arxiv.org/abs/2502.11767'>From Selection to Generation: A Survey of LLM-based Active Learning</a> has been accepted at ACL 25 main!</li>
