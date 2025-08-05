@@ -61,7 +61,7 @@ News
 <li>[11] 📚 Tutorial on <a href='https://kindlab-fly.github.io/tutorials/sdm25/'>GraphRAG</a> accepted at SDM'25!</li>
 <li>[10] 📚 Paper <a href='https://arxiv.org/html/2406.11685v1'>Imbalance Edge Classification</a> accepted at WSDM'24!</li>
 <li>[09] 📚 Paper <a href='https://www.welqrate.org/'>Drug Discovery Benchmark</a> accepted at NeurIPS'24!</li>
-<li>[09] <span style="color:red"><b>Faculty Career Start at UO, Go Duck!</b></span></li>
+<li>[09] 🦆 <span style="color:red"><b>Faculty Career Start at UO, Go Duck!</b></span></li>
 <li>[08] 📚 Survey <a href='https://arxiv.org/abs/2308.16375'>Trustworthy GNN: Attacks/Preservation/Applications</a> accepted at IEEE-TKDE!</li>
 <li>[07] 📚 Paper <a href='https://arxiv.org/html/2405.17602v1'>Topology-RAG</a> accepted at CIKM'24!</li>
 <li>[07] 📚 Tutorial <a href='https://nds-vu.github.io/tutorials/cikm24/'>Data-quality-aware Graph Machine Learning</a> accepted at CIKM'24!</li>
