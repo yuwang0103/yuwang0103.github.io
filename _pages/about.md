@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. Before that, he received his Ph.D. in Computer Science from Vanderbilt University. 
+Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. He received his Ph.D. in Computer Science from Vanderbilt University. 
 
-📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
+<!-- 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested! -->
 
 <span style="color:red">**See this for the comprehensive information in [Post1](https://yuwang0103.github.io/recruiting/) and [Post2](https://mp.weixin.qq.com/s/ulv71WoDC0Oi7WbXzmdl1Q)**
 
@@ -18,11 +18,11 @@ Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at
 Research Interests:
 ------
 - Data Mining and Machine Learning
-- LLM + Graph-structured Data 
-- Generative Graph Models
-- Spatial and Temporal Graph Machine Learning
-- LLM-powered Agent Planning, Reasoning, Collaboration, and Social Simulation
-- Graph AI/ML Applications: Information Retrieval/Chemistry/Infrastructure
+- Neural-Symbolic Learning
+- Graph and Network
+- LLM + Structured Knowledge
+- Agentic Social Networks  
+- AI/ML Applications: Document Intelligence/Cyber-security/Society
 
 Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
