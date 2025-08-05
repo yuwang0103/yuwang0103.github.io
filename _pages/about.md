@@ -77,29 +77,17 @@ News
 🐰 2023
 -----
 <ul>
-<li>[12] 🎉 <span style="color:red"><b>Adobe Internship Paper <a href='https://ojs.aaai.org/index.php/AAAI/article/view/29889'>KG-RAG for LLMs</a> Receive Best Paper Award at GLFrontiers Workshop in Neurips'23!</b></span></li>
-<li>[12] Two papers 📰 Knowledge Graph Prompting for LLMs and 👫 Fair Dating Recommendation have been accepted at AAAI'24!</li>
+<li>[12] 🎉 <span style="color:red"><b>Adobe Internship Paper <a href='https://ojs.aaai.org/index.php/AAAI/article/view/29889'>KG-RAG for LLMs</a> Received Best Paper Award at GLFrontiers Workshop in Neurips'23!</b></span></li>
+<li>[12] 📚 Paper <a href='https://ojs.aaai.org/index.php/AAAI/article/view/29889'>KG-RAG for LLMs</a> accepted at AAAI'24!</li>
+<li>[12] 📚 Paper <a href='https://ojs.aaai.org/index.php/AAAI/article/view/30263'>Fair Dating Recommendation</a> accepted at AAAI'24!</li>
 <li>[11] 📚 Tutorial <a href='https://yuwang0103.github.io/_pages/tutorial_ppt.pdf'>Data-quality-aware Graph Machine Learning</a> accepted at SDM'24!</li>
-<li>[10] Our paper <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLMs</a> has been accepted at Neurips'GLFrontiers workshop Oral presentation 📣, see you in New Orleans!</li>
-<li>[09] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!</li>
-<li>[09] Preprint paper on <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLMs</a> is available now!</li>
-<li>[09] Invited to serve as PC for SDM24! </li>
-<li>[08] Invited to serve as the reviewer for LOG24! </li>
-<li>[08] Invited to serve as PC for WSDM24 and AAAI24! </li>
-<li>[07] Preprint survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> is available now!</li>
-<li>[07] Preprint survey <a href='https://arxiv.org/abs/2308.16375'>Privacy in GNNs</a> is available now!</li>
-<li>[05] Thrilled to receive <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>2023 Graduate Leadership Anchor Awards Research Branch</a>! </li>
-<li>[04] AI for Science preprint <a href='https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1.abstract'>Expert Knowledge for Drug Discovery</a> is available online! </li>
-<li>[03] Invited to serve as a reviewer for JOCO/TKDE/TNNLS! </li>
-<li>[02] Invited to serve as a subreviewer for ICWSM’23! </li>
-<li>[02] Invited to serve as a PC member for MLoG@WSDM’23! </li>
-<li>[01] Thrilled to receive the American Bureau of Shipping Scholarship Award. Thank you, Tyler and our CS Department, for the nomination! </li>
-<li>[01] <a href='https://dl.acm.org/doi/abs/10.1145/3543507.3583229'>Collaboration-aware GNNs</a> is accepted at WWW’23! </li>
-<li>[01] Invited to serve as PC member for both Research and Applied Track of KDD’23! </li>    
-<li>[01] Invited to serve as the Reviewer for DAMI! </li>    
+<li>[05] 🎉 Received <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>2023 Graduate Leadership Anchor Awards Research Branch</a>!</li>
+<li>[04] 📚 Paper <a href='https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1.abstract'>Expert Knowledge for Drug Discovery</a> accepted at <a href='https://pubs.acs.org/journal/jcisd8'></a>JCIM! </li>
+<li>[01] 🎉 Thrilled to receive the American Bureau of Shipping Scholarship Award! </li>
+<li>[01] 📚 Paper <a href='https://dl.acm.org/doi/abs/10.1145/3543507.3583229'>Collaboration-aware GNNs</a> accepted at WWW’23! </li>
 </ul>
 
-🐯-2022
+🐯 2022
 -----
 <ul>
 <li>[12] Our paper <a href='https://arxiv.org/abs/2211.15590'>Bayesian Reconstruction of Infrastructure Networks</a> is available now! </li>
