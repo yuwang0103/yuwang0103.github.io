@@ -60,23 +60,18 @@ News
 <li>[12] 📚 Paper on <a href='https://arxiv.org/abs/2410.08985'>Reliable RAG for KG</a> accepted at AAAI'25!</li>
 <li>[11] 📚 Tutorial on <a href='https://kindlab-fly.github.io/tutorials/sdm25/'>GraphRAG</a> accepted at SDM'25!</li>
 <li>[10] 📚 Paper <a href='https://arxiv.org/html/2406.11685v1'>Imbalance Edge Classification</a> accepted at WSDM'24!</li>
-
 <li>[09] 📚 Paper <a href='https://www.welqrate.org/'>Drug Discovery Benchmark</a> accepted at NeurIPS'24!</li>
 <li>[08] 📚 Survey <a href='https://arxiv.org/abs/2308.16375'>Trustworthy GNN: Attacks/Preservation/Applications</a> accepted at IEEE-TKDE!</li>
-<li>[07] 📚 Paper <a href='https://arxiv.org/html/2405.17602v1'>Topo-RAG</a> accepted at CIKM'24!</li>
+<li>[07] 📚 Paper <a href='https://arxiv.org/html/2405.17602v1'>Topology-RAG</a> accepted at CIKM'24!</li>
 <li>[07] 📚 Tutorial <a href='https://nds-vu.github.io/tutorials/cikm24/'>Data-quality-aware Graph Machine Learning</a> accepted at CIKM'24!</li>
-<li>[05] New preprint <a href='https://arxiv.org/abs/2405.17602'>Augmenting Textual Generation via Topology Aware Retrieval</a> is available online!</li>
-<li>[05] My collaborated paper with The Home Depot Knowledge Graph for Session Recommendation has been selected as the Spotlight Presentation at Industrial Track!</li>
-<li>[04] Our survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> has been accepted at TIST!</li>
-<li>[04] Slides of our SDM'24 <a href='https://yuwang0103.github.io/_pages/tutorial_ppt.pdf'>Tutorial</a> on Data Quality-Aware Graph Machine Learning is available!</li>
-<li>[04] Honored to receive the Best Doctoral Forum Poster Runner-ups at SDM'24!</li>
-<li>[02] Thrilled to receive 2023-2024 Vanderbilt Outstanding Doctoral Student Award!</li>
-<li>[02] Invited to serve as PC member at KDD'24 and ECMLPKDD'24!</li>
-<li>[02] Our survey paper on Fairness-aware GNN has been accepted at TKDD'24, thanks to all collaborators!</li>
-<li>[02] 📚 Our paper on Knowledge Graph for Session Recommendation has been accepted at WWW'24 Industrial Track, thanks to all collaborators and gift funding from The Home Depot!</li>
-<li>[01] 📚 Our paper on multi-embeddings for a fair recommendation has been accepted at WWW'24, congratulations to Yuying, and also thanks to all collaborators and support from Visa Research!</li>
-<li>[01] 📚 My first author paper on Topological Perspective for GNNs' Link Prediction has been accepted at ICLR'24, thanks to all collaborators and support from Snap!</li>
-<li>[01] Invited to give a virtual talk on Topology-aware Retrieval Augmented Generation (Topo-RAG) in <a href='https://log2023midnorth.github.io/'>LoG Meetup at the University of Notre Dame!</a></li>
+<li>[05] 📚 The Home Depot Internship Paper <a href='https://dl.acm.org/doi/10.1145/3589335.3648324'>KG-RAG for Session Recommendation</a> selected as Spotlight at WWW'24!</li>
+<li>[04] 📚 Survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity and fairness</a> accepted at TIST!</li>
+<li>[04] 🎉 Received the Best Doctoral Forum Poster Runner-up at SDM'24!</li>
+<li>[02] 🎉 Received 2023-2024 Vanderbilt Outstanding Doctoral Student Award!</li>
+<li>[02] 🎉 Survey <a href='https://arxiv.org/abs/2307.03929'>Fairness-aware GNN</a> accepted at TKDD'24!</li>
+<li>[02] 📚 The Home Depot Internship Paper <a href='https://dl.acm.org/doi/10.1145/3589335.3648324'>KG-RAG for Session Recommendation</a> accepted at WWW'24 Industrial Track!</li>
+<li>[01] 📚 Paper <a href='https://arxiv.org/html/2402.13495v1'>Multi-Embeddings for Fair Recommendation</a> accepted at WWW'24!</li>
+<li>[01] 📚 Paper <a href='https://arxiv.org/abs/2310.04612'>Topological Perspective on GNNs' Link Prediction</a> accepted at ICLR'24!</li>
 </ul>
 
 🐰-2023
@@ -84,8 +79,7 @@ News
 <ul>
 <li>[12] 🎉 <span style="color:red"><b>Honored to receive the Best Paper Award for our paper 📰 Knowledge Graph Prompting for LLMs at GLFrontiers Workshop in Neurips'23, thanks all collaborators from Adobe!</b></span></li>
 <li>[12] Two papers 📰 Knowledge Graph Prompting for LLMs and 👫 Fair Dating Recommendation have been accepted at AAAI'24!</li>
-<li>[12] Glad that I have successfully passed my qualification exam 📈!</li>
-<li>[11] Our tutorial 📚 Data-quality-aware Graph Machine Learning has been accepted at SDM'24 Tutorial, see you in Houston!</li>
+<li>[11] 📚 Tutorial <a href='https://yuwang0103.github.io/_pages/tutorial_ppt.pdf'>Data-quality-aware Graph Machine Learning</a> accepted at SDM'24!</li>
 <li>[10] Our paper <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLMs</a> has been accepted at Neurips'GLFrontiers workshop Oral presentation 📣, see you in New Orleans!</li>
 <li>[09] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!</li>
 <li>[09] Preprint paper on <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLMs</a> is available now!</li>
