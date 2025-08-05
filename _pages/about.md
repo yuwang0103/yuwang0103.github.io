@@ -31,7 +31,27 @@ News
 <!-- 📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the MLoG-GenAI Workshop: <a href='https://mlgraphworkshop.github.io/'>Machine Learning on Graphs in the Era of Generative Artificial Intelligence</a> at KDD 2025! If you are working in relevant directions, don’t hesitate to submit your paper! -->
 
 
-
+🐍-2025
+-----
+<ul>
+<li>[07] 🎉🎉🎉 Our collaborative research project has been awarded by the National Science Foundation IIS-III Core program (my role: lead PI). This project aims to develop a well-rounded graph retrieval-augmented generation framework, targeting society, security, and document understanding! Thanks a lot to the NSF and all collaborators for the support!</li>
+<li>[07] Our paper 📚 <a href='https://arxiv.org/abs/2411.01747'>DynaSaur: Large Language Agents Beyond Predefined Actions</a> has been accepted at COLM 2025!</li>
+<li>[06] Our paper 📚 <a href=''>Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks</a> has been accepted at IEEE Transactions on Network Science and Engineering (TNSE)!</li>
+<li>[06] Our paper 📚 <a href='https://arxiv.org/abs/2411.00027'>Personalization of Large Language Models: A Survey</a> has been accepted at Transactions on Machine Learning Research (TMLR)!</li>
+<li>[05] My first student's first work 📚 <a href='https://arxiv.org/abs/2502.20317'>Mixture of Structural-and-Textual Retrieval (MoR)</a> has been accepted at ACL 2025 Findings!</li>
+<li>[05] Our paper 📚 <a href='https://openreview.net/forum?id=ccYWyKCQUu#discussion'>Click, Type, Repeat: A Comprehensive Survey on GUI Agents</a> has been accepted at ACL 25 Findings!</li>
+<li>[05] Our paper 📚 <a href='https://arxiv.org/abs/2502.11767'>From Selection to Generation: A Survey of LLM-based Active Learning</a> has been accepted at ACL 25 main!</li>
+<li>[05] Our paper 📚 <a href='https://arxiv.org/abs/2410.19214'>BTS: A Comprehensive Benchmark for Tie Strength Prediction</a> has been accepted at KDD 2025 Datasets and Benchmarks Track!</li>
+<li>[04] My student, Yongjia, has been awarded the SDM Doctorum Forum Poster Session Honorable Mention Award!</li>
+<li>[03] My student, <a href='https://yoega.github.io/Yoega.html'>Yongjia Lei</a>, will begin her summer internship at Adobe Research on RAG for Document Intelligence!</li>
+<li>[03] Our paper 📚 <a href=''>GRS-QA - Graph Reasoning-Structured Question Answering Dataset</a> has been accepted at NAACL SRM'25!</li>
+<li>[03] Our paper 📚 <a href=''>Building Trust in Machine Learning-Powered Networking: The Network Explainer Framework</a> has been accepted at SDM-AI4TS'25!</li>
+<li>[02] My first student first leading author paper 📚 <a href='https://arxiv.org/abs/2502.20317'>Mixture of Structural-and-Textual Retrieval (MoR)</a> is online!</li>
+<li>[02] 🎉🎉🎉 Our workshop call <a href='https://mlgraphworkshop.github.io/'>ML on Graphs in the Era of Gen-AI</a> has been accepted at KDD2025!</li>
+<li>[02] 🎉🎉🎉 My co-advised PhD student Riya has been selected as a fellow for the competitive 2025 Pulse Research Fellowship!</li>
+<li>[01] Our paper 📚 "Demystifying the Power of Large Language Models in Graph Generation" has been accepted at NAACL'25 Findings!</li>
+<li>[01] Our paper 📚 <a href='https://arxiv.org/abs/2406.05109'>Large Generative Graph Models</a> has been accepted at ICLR 25!</li>
+</ul>
 
 🐲-2024
 -----
