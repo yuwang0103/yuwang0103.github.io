@@ -31,7 +31,7 @@ News
 <!-- 📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the MLoG-GenAI Workshop: <a href='https://mlgraphworkshop.github.io/'>Machine Learning on Graphs in the Era of Generative Artificial Intelligence</a> at KDD 2025! If you are working in relevant directions, don’t hesitate to submit your paper! -->
 
 
-🐍-2025
+🐍 2025
 -----
 <ul>
 <li>[07] 🎉 Received KDD Outstanding Dissertation Award Honorable Mention!</li>
@@ -53,7 +53,7 @@ News
 <li>[01] 📚 Paper on <a href='https://openreview.net/forum?id=c01YB8pF0s'>Large Graph Generative Models</a> accepted at ICLR'25!</li>
 </ul>
 
-🐲-2024
+🐲 2024
 -----
 <ul>
 <li>[12] 🎉 Receive outstanding reviewer award at <a href='https://ecmlpkdd.org/2024/organisation-area-chairs-and-reviewers/'>ECML-PKDD'24</a>!</li>
@@ -74,10 +74,10 @@ News
 <li>[01] 📚 Paper <a href='https://arxiv.org/abs/2310.04612'>Topological Perspective on GNNs' Link Prediction</a> accepted at ICLR'24!</li>
 </ul>
 
-🐰-2023
+🐰 2023
 -----
 <ul>
-<li>[12] 🎉 <span style="color:red"><b>Honored to receive the Best Paper Award for our paper 📰 Knowledge Graph Prompting for LLMs at GLFrontiers Workshop in Neurips'23, thanks all collaborators from Adobe!</b></span></li>
+<li>[12] 🎉 <span style="color:red"><b>Adobe Internship Paper <a href='https://ojs.aaai.org/index.php/AAAI/article/view/29889'>KG-RAG for LLMs</a> Receive Best Paper Award at GLFrontiers Workshop in Neurips'23!</b></span></li>
 <li>[12] Two papers 📰 Knowledge Graph Prompting for LLMs and 👫 Fair Dating Recommendation have been accepted at AAAI'24!</li>
 <li>[11] 📚 Tutorial <a href='https://yuwang0103.github.io/_pages/tutorial_ppt.pdf'>Data-quality-aware Graph Machine Learning</a> accepted at SDM'24!</li>
 <li>[10] Our paper <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLMs</a> has been accepted at Neurips'GLFrontiers workshop Oral presentation 📣, see you in New Orleans!</li>
