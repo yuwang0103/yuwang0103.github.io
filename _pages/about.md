@@ -34,7 +34,7 @@ News
 🐍-2025
 -----
 <ul>
-<li>[07] 🎉🎉🎉 Our collaborative research project has been awarded by the National Science Foundation IIS-III Core program (my role: lead PI). This project aims to develop a well-rounded graph retrieval-augmented generation framework, targeting society, security, and document understanding! Thanks a lot to the NSF and all collaborators for the support!</li>
+<li>[07] 🎉🎉🎉 Collaborative research project has been awarded by NSF IIS-III Core program (my role: lead PI). This project aims to well-round GraphRAG for society, security, and science! Thanks a lot to NSF and all collaborators!</li>
 <li>[07] Our paper 📚 <a href='https://arxiv.org/abs/2411.01747'>DynaSaur: Large Language Agents Beyond Predefined Actions</a> has been accepted at COLM 2025!</li>
 <li>[06] Our paper 📚 <a href=''>Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks</a> has been accepted at IEEE Transactions on Network Science and Engineering (TNSE)!</li>
 <li>[06] Our paper 📚 <a href='https://arxiv.org/abs/2411.00027'>Personalization of Large Language Models: A Survey</a> has been accepted at Transactions on Machine Learning Research (TMLR)!</li>
