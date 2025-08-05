@@ -34,22 +34,23 @@ News
 🐍-2025
 -----
 <ul>
-<li>[07] 🎉 Collaborative research project has been awarded by NSF IIS-III Core program (my role: lead PI). This project aims to well-round GraphRAG for society, security, and science! Thanks to NSF and all collaborators!</li>
-<li>[07] 📚 One paper on <a href='https://arxiv.org/abs/2411.01747'>Agentic Action Learning beyond Pre-defined Space</a> has been accepted at COLM'25!</li>
-<li>[06] 📚 One paper on <a href='https://ieeexplore.ieee.org/document/11029199'>Edge Splitting Analysis for Temporal Graph Modeling</a> has been accepted at IEEE Transactions on Network Science and Engineering (TNSE)!</li>
-<li>[06] 📚 One survey on <a href='https://arxiv.org/abs/2411.00027'>Personalization of LLMs</a> has been accepted at <a href='https://jmlr.org/tmlr/'>TMLR</a>!</li>
-<li>[05] 📚 My first student Yongjia's first work <a href='https://arxiv.org/abs/2502.20317'>Mixture of Structural-and-Textual Retrieval</a> has been accepted at ACL'25 Findings!</li>
-<li>[05] 📚 One survey on <a href='https://openreview.net/forum?id=ccYWyKCQUu#discussion'>GUI Agents</a> has been accepted at ACL'25 Findings!</li>
-<li>[05] 📚 One survey on <a href='https://arxiv.org/abs/2502.11767'>LLM Active Learning</a> has been accepted at ACL'25 main!</li>
-<li>[05] 📚 One paper on <a href='https://arxiv.org/abs/2410.19214'>Tie Strength Benchmark</a> has been accepted at KDD'25!</li>
+<li>[07] 🎉 Received KDD Outstanding Dissertation Award Honorable Mention!</li>
+<li>[07] 🎉 Received NSF IIS-III Core Program (my role: lead PI). This project aims to well-round GraphRAG for society, security, and science!</li>
+<li>[07] One paper on <a href='https://arxiv.org/abs/2411.01747'>Agentic Action Learning beyond Pre-defined Space</a> has been accepted at COLM'25!</li>
+<li>[06] One paper on <a href='https://ieeexplore.ieee.org/document/11029199'>Edge Splitting Analysis for Temporal Graph Modeling</a> has been accepted at IEEE Transactions on Network Science and Engineering (TNSE)!</li>
+<li>[06] One survey on <a href='https://arxiv.org/abs/2411.00027'>Personalization of LLMs</a> has been accepted at <a href='https://jmlr.org/tmlr/'>TMLR</a>!</li>
+<li>[05] 🎉 My first student Yongjia's first work <a href='https://arxiv.org/abs/2502.20317'>Mixture of Structural-and-Textual Retrieval</a> has been accepted at ACL'25 Findings!</li>
+<li>[05] One survey on <a href='https://openreview.net/forum?id=ccYWyKCQUu#discussion'>GUI Agents</a> has been accepted at ACL'25 Findings!</li>
+<li>[05] One survey on <a href='https://arxiv.org/abs/2502.11767'>LLM Active Learning</a> has been accepted at ACL'25 main!</li>
+<li>[05] One paper on <a href='https://arxiv.org/abs/2410.19214'>Tie Strength Benchmark</a> has been accepted at KDD'25!</li>
 <li>[04] My first student, Yongjia, has been awarded the SDM Doctorum Forum Poster Session Honorable Mention Award!</li>
 <li>[03] My student, <a href='https://yoega.github.io/Yoega.html'>Yongjia Lei</a>, will begin her summer internship at Adobe Research!</li>
-<li>[03] 📚 One paper on <a href=''>Graph Reasoning-Structured Question Answering Dataset</a> has been accepted at NAACL SRM'25!</li>
-<li>[03] 📚 One paper <a href=''>Building Trust in Machine Learning-Powered Networking: The Network Explainer Framework</a> has been accepted at SDM-AI4TS'25!</li>
-<li>[02] 🎉 Our workshop call <a href='https://mlgraphworkshop.github.io/'>GML-GenAI@KDD25</a> has been accepted at KDD'25!</li>
+<li>[03] One paper on <a href=''>Graph Reasoning-Structured Question Answering Dataset</a> has been accepted at NAACL SRM'25!</li>
+<li>[03] One paper <a href=''>Building Trust in Machine Learning-Powered Networking: The Network Explainer Framework</a> has been accepted at SDM-AI4TS'25!</li>
+<li>[02] Our workshop call <a href='https://mlgraphworkshop.github.io/'>GML-GenAI@KDD25</a> has been accepted at KDD'25!</li>
 <li>[02] 🎉 My co-advised PhD student Riya has been selected for the competitive 2025 Pulse Research Fellowship!</li>
-<li>[01] 📚 One paper on <a href='https://aclanthology.org/2025.findings-naacl.456/'>LLM for Graph Generation</a> has been accepted at NAACL'25 Findings!</li>
-<li>[01] 📚 One paper on <a href='https://openreview.net/forum?id=c01YB8pF0s'>Large Graph Generative Models</a> has been accepted at ICLR'25!</li>
+<li>[01] One paper on <a href='https://aclanthology.org/2025.findings-naacl.456/'>LLM for Graph Generation</a> has been accepted at NAACL'25 Findings!</li>
+<li>[01] One paper on <a href='https://openreview.net/forum?id=c01YB8pF0s'>Large Graph Generative Models</a> has been accepted at ICLR'25!</li>
 </ul>
 
 🐲-2024
