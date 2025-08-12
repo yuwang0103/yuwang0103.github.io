@@ -36,7 +36,7 @@ News
 <ul>
 <li>[08] 📚 Paper on SSL for Unveiling Submarine Cable Paths has been accepted at IMC 2025 Student Workshop!</li>
 <li>[08] 🎉 <span style="color:red"><b>Received KDD Outstanding Dissertation Award Honorable Mention!</b></span></li>
-<li>[07] 💰 <span style="color:red"><b>Received NSF IIS-III Core Program Award (my role: lead PI). This project aims to well-round GraphRAG for society, security, and science!</b></span></li>
+<li>[07] 💰 <span style="color:red"><b>Received NSF IIS-III Core Program Award as lead PI. This project aims to well-round GraphRAG for society, security, and science!</b></span></li>
 <!-- <li>[07] 💰 <span style="color:red"><b><a href='https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/'>Collaborative Research</a> Received NSF IIS-III Core Program (my role: lead PI). This project aims to well-round GraphRAG for society, security, and science!</b></span></li> -->
 <li>[07] 📚 Paper on <a href='https://arxiv.org/abs/2411.01747'>Agentic Learning beyond Pre-defined Action Space</a> accepted at COLM'25!</li>
 <li>[06] 📚 Paper on <a href='https://ieeexplore.ieee.org/document/11029199'>Edge Splitting for Temporal Graph</a> has been accepted at <a href='https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902'>TNSE</a>!</li>
