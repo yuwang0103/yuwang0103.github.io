@@ -34,6 +34,8 @@ News
 🐍 2025
 -----
 <ul>
+<li>[08] 📚 Paper on  <a href='https://arxiv.org/abs/2503.13804'>Knowledge Filtering and Integration for GraphRAG</a> accepted at EMNLP'25!</li>
+<li>[08] 💰 Our NSF-NAIRR Pilot project on developing Foundational GraphRAG has been selected!</li>
 <li>[08] 📚 Paper on SSL for Unveiling Submarine Cable Paths has been accepted at IMC 2025 Student Workshop!</li>
 <li>[08] 🎉 <span style="color:red"><b>Received KDD Outstanding Dissertation Award Honorable Mention!</b></span></li>
 <li>[07] 💰 <span style="color:red"><b>Received NSF IIS-III Core Program Award as lead PI. This project aims to well-round GraphRAG for society, security, and science!</b></span></li>
