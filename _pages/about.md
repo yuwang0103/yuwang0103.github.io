@@ -20,15 +20,14 @@ Research Interests:
 - Data Mining and Machine Learning
 - Neural-Symbolic Learning
 - Graph and Network
-- LLM + Structured Knowledge: Trustworthy and Reasoning
-- Agentic Cyber-Social Networks  
-- AI/ML/DM Applications: Document Intelligence/Cyber-security/Socio-Psychology
+- LLM + Structured Knowledge
+- AI/ML/DM Applications: Document Intelligence/Social Computing/Networking Infrastructure
 
 Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
 News
 ======
-<!-- 📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the MLoG-GenAI Workshop: <a href='https://mlgraphworkshop.github.io/'>Machine Learning on Graphs in the Era of Generative Artificial Intelligence</a> at KDD 2025! If you are working in relevant directions, don’t hesitate to submit your paper! -->
+<!-- 📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the SURGeLLM-ACL Workshop: <a href='https://surgellm-acl.github.io/'>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLM Era</a> at ACL 2026! If you are working in relevant directions, don’t hesitate to submit your paper! -->
 
 🐍 2025
 -----
@@ -36,7 +35,7 @@ News
 <li>[10] 🎤 Invited Talk at AI Seminar at Oregon State University!</li>
 <li>[10] 📚 Our Tutorial on  <a href=''>Democratizing RAG with Structured Knowledge Intelligence</a> accepted at WSDM'26!</li>
 <li>[09] 📚 Our Workshop Paper on  <a href=''>Contrastive Learning approach to Submarine Network Cartography</a> accepted at IMC Student Workshop'25!</li>
-<li>[09] 📚 Our Workshop Paper on  <a href=''>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs era </a> accepted at ACL'26!</li>
+<li>[09] 📚 Our Workshop Paper on  <a href=''>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs Era</a> accepted at ACL'26!</li>
 <li>[08] 📚 Paper on  <a href='https://arxiv.org/abs/2503.13804'>Knowledge Filtering and Integration for GraphRAG</a> accepted at EMNLP'25!</li>
 <li>[08] 💰 Our NSF-NAIRR Pilot project on developing Foundational GraphRAG has been selected!</li>
 <li>[08] 📚 Paper on SSL for Unveiling Submarine Cable Paths has been accepted at IMC 2025 Student Workshop!</li>
