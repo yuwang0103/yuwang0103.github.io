@@ -30,12 +30,13 @@ News
 ======
 <!-- 📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the MLoG-GenAI Workshop: <a href='https://mlgraphworkshop.github.io/'>Machine Learning on Graphs in the Era of Generative Artificial Intelligence</a> at KDD 2025! If you are working in relevant directions, don’t hesitate to submit your paper! -->
 
-
+Our work on contrastive learning approach to submarine network cartography will appear in IMC 2025 Student Workshop! Congrats Riya and collaborators!
 🐍 2025
 -----
 <ul>
 <li>[10] 🎤 Invited Talk at AI Seminar at Oregon State University!</li>
 <li>[10] 📚 Our Tutorial on  <a href=''>Democratizing RAG with Structured Knowledge Intelligence</a> accepted at WSDM'26!</li>
+<li>[09] 📚 Our Workshop Paper on  <a href=''>Contrastive Learning approach to Submarine Network Cartography</a> accepted at IMC Student Workshop'25!</li>
 <li>[09] 📚 Our Workshop Paper on  <a href=''>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs era </a> accepted at ACL'26!</li>
 <li>[08] 📚 Paper on  <a href='https://arxiv.org/abs/2503.13804'>Knowledge Filtering and Integration for GraphRAG</a> accepted at EMNLP'25!</li>
 <li>[08] 💰 Our NSF-NAIRR Pilot project on developing Foundational GraphRAG has been selected!</li>
