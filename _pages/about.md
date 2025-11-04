@@ -34,6 +34,9 @@ News
 🐍 2025
 -----
 <ul>
+<li>[10] 🎤 Invited Talk at AI Seminar at Oregon State University!</li>
+<li>[10] 📚 Our Tutorial on  <a href=''>Democratizing RAG with Structured Knowledge Intelligence</a> accepted at WSDM'26!</li>
+<li>[09] 📚 Our Workshop Paper on  <a href=''>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs era </a> accepted at ACL'26!</li>
 <li>[08] 📚 Paper on  <a href='https://arxiv.org/abs/2503.13804'>Knowledge Filtering and Integration for GraphRAG</a> accepted at EMNLP'25!</li>
 <li>[08] 💰 Our NSF-NAIRR Pilot project on developing Foundational GraphRAG has been selected!</li>
 <li>[08] 📚 Paper on SSL for Unveiling Submarine Cable Paths has been accepted at IMC 2025 Student Workshop!</li>
