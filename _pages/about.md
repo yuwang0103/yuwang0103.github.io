@@ -30,7 +30,6 @@ News
 ======
 <!-- 📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the MLoG-GenAI Workshop: <a href='https://mlgraphworkshop.github.io/'>Machine Learning on Graphs in the Era of Generative Artificial Intelligence</a> at KDD 2025! If you are working in relevant directions, don’t hesitate to submit your paper! -->
 
-Our work on contrastive learning approach to submarine network cartography will appear in IMC 2025 Student Workshop! Congrats Riya and collaborators!
 🐍 2025
 -----
 <ul>
