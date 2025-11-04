@@ -27,7 +27,7 @@ Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Tw
 
 News
 ======
-<!-- 📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the SURGeLLM-ACL Workshop: <a href='https://surgellm-acl.github.io/'>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLM Era</a> at ACL 2026! If you are working in relevant directions, don’t hesitate to submit your paper! -->
+📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the SURGeLLM-ACL Workshop: <a href='https://surgellm-acl.github.io/'>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLM Era</a> at ACL 2026! If you are working in relevant directions, don’t hesitate to submit your paper!
 
 🐍 2025
 -----
