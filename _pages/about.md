@@ -35,7 +35,7 @@ News
 🐍 2025
 -----
 <ul>
-<li>[11] 🎤 Talk at AI Seminar at Oregon State University on "Rigorizing Neural Thinking with Structural Intelligence"!</li>
+<li>[11] 🎤 Talk at <a href='https://events.oregonstate.edu/event/democratizing-neural-thinking-with-structural-knowledge-intelligence?utm_campaign=widget&utm_medium=widget&utm_source=Oregon+State+University'>AI Seminar at Oregon State University</a> on "Rigorizing Neural Thinking with Structural Intelligence"!</li>
 <li>[10] 📚 Our Tutorial on  <a href=''>Democratizing RAG with Structured Knowledge Intelligence</a> accepted at WSDM'26!</li>
 <li>[09] 📚 Our Workshop Paper on  <a href=''>Contrastive Learning approach to Submarine Network Cartography</a> accepted at IMC Student Workshop'25!</li>
 <li>[09] 📚 Our Workshop Paper on  <a href=''>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs Era</a> accepted at ACL'26!</li>
