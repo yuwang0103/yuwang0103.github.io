@@ -10,7 +10,7 @@ redirect_from:
 
 Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. He received his Ph.D. in Computer Science from Vanderbilt University. 
 
-His research seeks to rigorize System 1-style Neural Processing to make it more useful, trustworthy, and inclusive through the infusion of System 2-style structural intelligence, such as graph machine learning and structured knowledge retrieval-augmented generation system, with applications in Document Intelligence, Social Computing, and Infrastructure Analysis.
+Yu's research seeks to rigorize System 1-style Neural Processing to make it more useful, trustworthy, and inclusive through the infusion of System 2-style structural intelligence, such as graph machine learning and structured knowledge retrieval-augmented generation system, with applications in Document Intelligence, Social Computing, and Infrastructure Analysis.
 
 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
