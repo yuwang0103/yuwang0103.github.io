@@ -37,6 +37,8 @@ News
 🐍 2025
 -----
 <ul>
+<li>[11] 📚 Paper on  <a href=''>SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs</a> accepted at KDD'26!</li>
+<li>[11] 📚 Paper on  <a href='https://arxiv.org/abs/2509.18007'>Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework</a> accepted at KDD'26!</li>
 <li>[11] 🎤 Talk at <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>AI Seminar at Oregon State University</a> on "Rigorizing Neural Thinking with Structural Intelligence"!</li>
 <li>[10] 📚 Our Tutorial on  <a href=''>Democratizing RAG with Structured Knowledge Intelligence</a> accepted at WSDM'26!</li>
 <li>[09] 📚 Our Workshop Paper on  <a href=''>Contrastive Learning approach to Submarine Network Cartography</a> accepted at IMC Student Workshop'25!</li>
