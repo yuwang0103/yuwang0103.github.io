@@ -37,7 +37,7 @@ News
 🐍 2025
 -----
 <ul>
-<li>[11] 📚 My first master student Utkarsh's first work on  <a href=''>Knowledge Homophily in Large Language Models</a> accepted at WSDM'26!</li>
+<li>[11] 📚 My first master student Utkarsh's first work on  <a href='https://arxiv.org/abs/2509.23773'>Knowledge Homophily in Large Language Models</a> accepted at WSDM'26!</li>
 <li>[11] 📚 Paper on  <a href=''>SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs</a> accepted at KDD'26!</li>
 <li>[11] 📚 Paper on  <a href='https://arxiv.org/abs/2509.18007'>Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework</a> accepted at KDD'26!</li>
 <li>[11] 🎤 Talk at <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>AI Seminar at Oregon State University</a> on "Rigorizing Neural Thinking with Structural Intelligence"!</li>
