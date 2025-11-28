@@ -37,12 +37,13 @@ News
 🐍 2025
 -----
 <ul>
+<li>[11] 📚 My first master student Utkarsh's first work on  <a href=''>Knowledge Homophily in Large Language Models</a> accepted at WSDM'26!</li>
 <li>[11] 📚 Paper on  <a href=''>SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs</a> accepted at KDD'26!</li>
 <li>[11] 📚 Paper on  <a href='https://arxiv.org/abs/2509.18007'>Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework</a> accepted at KDD'26!</li>
 <li>[11] 🎤 Talk at <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>AI Seminar at Oregon State University</a> on "Rigorizing Neural Thinking with Structural Intelligence"!</li>
-<li>[10] 📚 Our Tutorial on  <a href=''>Democratizing RAG with Structured Knowledge Intelligence</a> accepted at WSDM'26!</li>
-<li>[09] 📚 Our Workshop Paper on  <a href=''>Contrastive Learning approach to Submarine Network Cartography</a> accepted at IMC Student Workshop'25!</li>
-<li>[09] 📚 Our Workshop Paper on  <a href=''>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs Era</a> accepted at ACL'26!</li>
+<li>[10] 📚 Tutorial on  <a href=''>Democratizing RAG with Structured Knowledge Intelligence</a> accepted at WSDM'26!</li>
+<li>[09] 📚 Workshop Paper on  <a href=''>Contrastive Learning approach to Submarine Network Cartography</a> accepted at IMC Student Workshop'25!</li>
+<li>[09] 📚 Workshop Paper on  <a href=''>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs Era</a> accepted at ACL'26!</li>
 <li>[08] 📚 Paper on  <a href='https://arxiv.org/abs/2503.13804'>Knowledge Filtering and Integration for GraphRAG</a> accepted at EMNLP'25!</li>
 <li>[08] 💰 Our NSF-NAIRR Pilot project on developing Foundational GraphRAG has been selected!</li>
 <li>[08] 📚 Paper on SSL for Unveiling Submarine Cable Paths has been accepted at IMC 2025 Student Workshop!</li>
@@ -52,7 +53,7 @@ News
 <li>[07] 📚 Paper on <a href='https://arxiv.org/abs/2411.01747'>Agentic Learning beyond Pre-defined Action Space</a> accepted at COLM'25!</li>
 <li>[06] 📚 Paper on <a href='https://ieeexplore.ieee.org/document/11029199'>Edge Splitting for Temporal Graph</a> has been accepted at <a href='https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902'>TNSE</a>!</li>
 <li>[06] 📚 Survey on <a href='https://arxiv.org/abs/2411.00027'>Personalization of LLMs</a> has been accepted at <a href='https://jmlr.org/tmlr/'>TMLR</a>!</li>
-<li>[05] 🎉 My first student Yongjia's first work <a href='https://arxiv.org/abs/2502.20317'>Mixture of Structural-and-Textual Retrieval</a> accepted at ACL'25 Findings!</li>
+<li>[05] 🎉 My first Ph.D. student Yongjia's first work <a href='https://arxiv.org/abs/2502.20317'>Mixture of Structural-and-Textual Retrieval</a> accepted at ACL'25 Findings!</li>
 <li>[05] 📚 Survey on <a href='https://openreview.net/forum?id=ccYWyKCQUu#discussion'>GUI Agents</a> accepted at ACL'25 Findings!</li>
 <li>[05] 📚 Survey on <a href='https://arxiv.org/abs/2502.11767'>LLM Active Learning</a> accepted at ACL'25 main!</li>
 <li>[05] 📚 Paper on <a href='https://arxiv.org/abs/2410.19214'>Tie Strength Benchmark</a> accepted at KDD'25!</li>
