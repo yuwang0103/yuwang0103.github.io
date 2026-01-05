@@ -33,6 +33,12 @@ News
 ======
 📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the SURGeLLM-ACL Workshop: <a href='https://surgellm.github.io/acl2026/'>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLM Era</a> at ACL 2026! If you are working in relevant directions, don’t hesitate to submit your paper!
 
+🐴 2026
+-----
+<ul>
+<li>[01] 📚 Paper on  <a href=''>A Survey on LLM-based Conversational User Simulation</a> accepted at EACL'26!</li>
+</ul>
+
 🐍 2025
 -----
 <ul>
