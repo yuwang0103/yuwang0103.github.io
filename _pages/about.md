@@ -36,7 +36,7 @@ News
 🐴 2026
 -----
 <ul>
-<li>[01] 📚 Paper on  <a href=''>A Survey on LLM-based Conversational User Simulation</a> accepted at EACL'26!</li>
+<li>[01] 📚 Paper on  <a href='Large Language Models for Conversational User Simulation: A Comprehensive Survey'>A Survey on LLM-based Conversational User Simulation</a> accepted at EACL'26!</li>
 </ul>
 
 🐍 2025
