@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. He received his Ph.D. in Computer Science from Vanderbilt University. 
 
-Yu's research seeks to rigorize System 1-style Neural Processing to make it more useful, trustworthy, and inclusive through the infusion of System 2-style structural intelligence, such as graph machine learning and structured knowledge intelligence, with applications in Document Intelligence, Social Computing, and Infrastructure Analysis. To check Yu's research, please check this comprehensive video for more information <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>Link</a>.
+Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon, where he directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in data science, graph machine learning, Agentic AI, and large language models. He received his Ph.D. in Computer Science from Vanderbilt University. His overarching research vision is to infuse domain-structured knowledge into machine learning to build data-centric, trustworthy, and socially beneficial AI solutions. To achieve this goal, his research philosophy focuses on rigorizing System-1 neural processing with System-2 structural intelligence, through two synergistic directions: (1) Structured-Knowledge-Augmented Agentic AI and (2) Data Quality-aware Graph Machine Learning, with interdisciplinary applications in document intelligence, social personalization, infrastructure systems, and drug discovery. To check Yu's research, please check this comprehensive video for more information <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>Link</a>.
 
 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
@@ -32,11 +31,13 @@ Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Tw
 
 News
 ======
-📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the SURGeLLM-ACL Workshop: <a href='https://surgellm-acl.github.io/'>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLM Era</a> at ACL 2026! If you are working in relevant directions, don’t hesitate to submit your paper!
+📢📢📢 <span style="color:red">**Call for Paper:**</span> We are organizing the SURGeLLM-ACL Workshop: <a href='https://surgellm.github.io/acl2026/'>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLM Era</a> at ACL 2026! If you are working in relevant directions, don’t hesitate to submit your paper!
 
 🐍 2025
 -----
 <ul>
+<li>[01] 📚 Paper on  <a href=''>A Survey on LLM-based Conversational User Simulation</a> accepted at EACL'26!</li>
+<li>[12] 📚 Paper on  <a href=''>Rule Mining and Learning for Structured Knowledge Retrieval</a> accepted at WSDM'26!</li>
 <li>[11] 📚 My first master student Utkarsh's first work on  <a href='https://arxiv.org/abs/2509.23773'>Knowledge Homophily in Large Language Models</a> accepted at WSDM'26!</li>
 <li>[11] 📚 Paper on  <a href=''>SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs</a> accepted at KDD'26!</li>
 <li>[11] 📚 Paper on  <a href='https://arxiv.org/abs/2509.18007'>Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework</a> accepted at KDD'26!</li>
