@@ -38,12 +38,12 @@ News
 <ul>
 <li>[02] 📚 <a href="https://arxiv.org/abs/2602.09319">Benchmarking Knowledge-Extraction Attack and Defense on RAG</a> is online</li>
 <li>[01] 📚 <a href="http://ryanrossi.com/pubs/LLM-based_User_Simulated_Data_Generation_Survey.pdf"> Large Language Models for Conversational User Simulation</a> accepted at EACL 2026.</li>
+<li>[01] 📚 Paper on  <a href=''>RL Exploration on Graphs</a> accepted at WWW'26!</li>
 </ul>
 
 🐍 2025
 -----
 <ul>
-<li>[01] 📚 Paper on  <a href=''>RL Exploration on Graphs</a> accepted at WWW'26!</li>
 <li>[12] 📚 Paper on  <a href=''>Rule Mining and Learning for Structured Knowledge Retrieval</a> accepted at WSDM'26!</li>
 <li>[11] 📚 My first master student Utkarsh's first work on  <a href='https://arxiv.org/abs/2509.23773'>Knowledge Homophily in Large Language Models</a> accepted at WSDM'26!</li>
 <li>[11] 📚 Paper on  <a href=''>SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs</a> accepted at KDD'26!</li>
