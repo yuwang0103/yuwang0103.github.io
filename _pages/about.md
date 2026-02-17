@@ -36,7 +36,7 @@ News
 🐴 2026
 -----
 <ul>
-<li>[02] 📚 Invited to Attend NSF NAIRR Pilot Meeting see you in DC!</li>
+<li>[02] Invited to Attend NSF NAIRR Pilot Meeting, see you in DC!</li>
 <li>[02] 📚 <a href="https://arxiv.org/abs/2602.09319">Benchmarking Knowledge-Extraction Attack and Defense on RAG</a> is online</li>
 <li>[01] 📚 <a href="http://ryanrossi.com/pubs/LLM-based_User_Simulated_Data_Generation_Survey.pdf"> Large Language Models for Conversational User Simulation</a> accepted at EACL 2026.</li>
 <li>[01] 📚 Paper on  <a href=''>RL Exploration on Graphs</a> accepted at WWW'26!</li>
@@ -63,6 +63,7 @@ News
 <li>[06] 📚 Paper on <a href='https://ieeexplore.ieee.org/document/11029199'>Edge Splitting for Temporal Graph</a> has been accepted at <a href='https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902'>TNSE</a>!</li>
 <li>[06] 📚 Survey on <a href='https://arxiv.org/abs/2411.00027'>Personalization of LLMs</a> has been accepted at <a href='https://jmlr.org/tmlr/'>TMLR</a>!</li>
 <li>[05] 🎉 My first Ph.D. student Yongjia's first work <a href='https://arxiv.org/abs/2502.20317'>Mixture of Structural-and-Textual Retrieval</a> accepted at ACL'25 Findings!</li>
+<li>[05] 🎤 Invited to attend CCC Computing Futures Symposium!</li>
 <li>[05] 📚 Survey on <a href='https://openreview.net/forum?id=ccYWyKCQUu#discussion'>GUI Agents</a> accepted at ACL'25 Findings!</li>
 <li>[05] 📚 Survey on <a href='https://arxiv.org/abs/2502.11767'>LLM Active Learning</a> accepted at ACL'25 main!</li>
 <li>[05] 📚 Paper on <a href='https://arxiv.org/abs/2410.19214'>Tie Strength Benchmark</a> accepted at KDD'25!</li>
