@@ -6,6 +6,18 @@ author_profile: true
 ---
 Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.pdf#nameddest=PUBLICATIONS)
 
+**Workshops**
+- **Machine Learning on Graphs in the Era of Generative Artificial Intelligence**
+  <br> **[KDD 2025]** ACM International Conference on Web Search and Data Mining
+  <br> **Yu Wang**, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahmed, Mahantesh Halappanavar, Jiliang Tang
+  <br> [[Website]](https://mlgraphworkshop.github.io/)
+
+- **SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs era**
+  <br> **[ACL 2026]** The 64th Annual Meeting of the Association for Computational Linguistics
+  <br> Vivek Gupta, Kaize Ding, Harsha Kokel, Yue Zhao, Amit Agarwal, Yu Wang, Michael Glass, Yu Zhang, Kavitha Srinivas, Xiusi Chen, Oktie Hassanzadeh, Qi Zhu, Shuaichen Chang, Yuan Luo
+  <br> [[Website]](https://surgellm.github.io/acl2026/)
+
+
 **Tutorials**
 - **Rigorizing Retrieval-augmented Generation with Structural Intelligence**
   <br> **[WSDM 2026]** ACM International Conference on Web Search and Data Mining
@@ -39,10 +51,12 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework**
   <br> **[KDD 2026]** ACM SIGKDD Conference on Knowledge Discovery & Data Mining
   <br> Riya Ponraj, Ram Durairajan, **Yu Wang**
+  <br> [[Paper]](https://arxiv.org/abs/2509.18007)[[Code]](https://github.com/yuwvandy/NetExplainer)
 
 - **Rule Mining and Learning for Structured Knowledge Retrieval**
   <br> **[WSDM 2026]** ACM International Conference on Web Search and Data Mining
   <br> Yongjia Lei, Mahantesh M Halappanavar, **Yu Wang**
+  <br> [[Paper]]()[[Code]]()
 
 - **Knowledge Homophily in Large Language Models**
   <br> **[WSDM 2026]** ACM International Conference on Web Search and Data Mining
@@ -63,6 +77,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs**
   <br> **[KDD 2026]** ACM SIGKDD Conference on Knowledge Discovery & Data Mining
   <br> Leyao Wang, **Yu Wang**, Bo Ni, Yuying Zhao, Haoyu Wang, Yao Ma, Tyler Derr
+  <br> [[Paper]](https://arxiv.org/abs/2410.16882)[[Code]](https://github.com/LWang-Laura/SaVe-TAG)
 
 - **Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs**
   <br> **[WWW 2026]** In Proceedings of the ACM Web Conference
