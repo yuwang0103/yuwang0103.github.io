@@ -8,16 +8,19 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 **Tutorials**
 - **Rigorizing Retrieval-augmented Generation with Structural Intelligence**
-  <br> ACM International Conference on Web Search and Data Mining (WSDM) 2026 [[Website]](https://kindlab-fly.github.io/tutorials/WSDM26/)
+  <br> ACM International Conference on Web Search and Data Mining (WSDM) 2026 
   <br> Zhisheng Qi, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, Yu Zhang, Ryan Rossi, Hui Liu, **Yu Wang**
+  <br> [[Website]](https://kindlab-fly.github.io/tutorials/WSDM26/)
 
 - **Empowering Retrieval-augmented Generation with Graph-structured Knowledge**
-  <br> SIAM International Conference on Data Mining (SDM) 2025 [[Website]](https://kindlab-fly.github.io/tutorials/sdm25/)
+  <br> SIAM International Conference on Data Mining (SDM) 2025 
   <br> **Yu Wang**, Haoyu Han, Harry Shomer, Kai Guo, Yongjia Lei, Jiayuan Ding, Xianfeng Tang, Qi He, Jiliang Tang
+  <br> [[Website]](https://kindlab-fly.github.io/tutorials/sdm25/)
 
 - **Data Quality-Aware Graph Machine Learning**
-  <br> ACM International Conference on Information and Knowledge Management (CIKM) 2024 [[Website]](https://nds-vu.github.io/tutorials/cikm24/)
+  <br> ACM International Conference on Information and Knowledge Management (CIKM) 2024 
   <br> **Yu Wang**, Kaize Ding, Xiaorui Liu, Jian Kang, Ryan Rossi, Tyler Derr
+  <br> [[Website]](https://nds-vu.github.io/tutorials/cikm24/)
 
 - **Data Quality-aware Graph Machine Learning**
   <br> SIAM International Conference on Data Mining (SDM) 2024
@@ -26,29 +29,9 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 **Book Chapter**
 - **Graph Neural Networks: Self-supervised Learning**
-  <br> In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao. Springer. [[Chapter]](https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18)[[Book]](https://link.springer.com/book/10.1007/978-981-16-6054-2)
+  <br> In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao. Springer.
   <br> **Yu Wang**, Wei Jin, Tyler Derr
-
-**Preprints**
-- **Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation**
-  <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2602.09319)[[Code]](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)
-  <br> Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, **Yu Wang**
-
-- **Retrieval-augmented Generation with Graphs (GraphRAG)**
-  <br> Arxiv 2025 [[Paper]]()[[Code]]()
-  <br> **Yu Wang**, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang
-
-- **RAG vs. GraphRAG: A Systematic Evaluation and Key Insights**
-  <br> Arxiv 2025 [[Paper]]()[[Code]]()
-  <br> Haoyu Han, Harry Shomer, **Yu Wang**, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang
-
-- **Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling**
-  <br> bioRxiv 2023 [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153143/)
-  <br> Yunchao Liu, Rocco Moretti, **Yu Wang**, Bobby Bodenheimer, Tyler Derr, Jens Meiler
-
-- **A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures**
-  <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2211.15590)
-  <br> **Yu Wang**, Jin-Zhu Yu, Hiba Baroud
+  <br> [[Chapter]](https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18)[[Book]](https://link.springer.com/book/10.1007/978-981-16-6054-2)
 
 
 **Conference/Journal Papers**
@@ -56,18 +39,6 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework**
   <br> ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD) 2026
   <br> Riya Ponraj, Ram Durairajan, **Yu Wang**
-
-- **SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs**
-  <br> ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD) 2026
-  <br> Leyao Wang, **Yu Wang**, Bo Ni, Yuying Zhao, Haoyu Wang, Yao Ma, Tyler Derr
-
-- **Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs**
-  <br> In Proceedings of the ACM Web Conference (WWW) 2026
-  <br> Haoyu Han, Kai Guo, Harry Shomer, **Yu Wang**, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang
-
-- **A Survey on LLM-based Conversational User Simulation**
-  <br> Conference of European Chapter of Association for Computational Linguistics (EACL) 2026
-  <br> Bo Ni, Leyao Wang, **Yu Wang**, Yuying Zhao, Tyler Derr, Ryan A. Rossi
 
 - **Rule Mining and Learning for Structured Knowledge Retrieval**
   <br> ACM International Conference on Web Search and Data Mining (WSDM) 2026
@@ -83,6 +54,23 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> Yongjia Lei, Haoyu Han, Ryan A Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M Halappanavar, Jiliang Tang, **Yu Wang**
   <br><span style="color:red">**Best Poster Honorable Mention at SDM'25 Doctoral Forum**</span>
   <br> [[Paper]](https://aclanthology.org/2025.findings-acl.941/)[[Code]](https://github.com/Yoega/MoR)
+
+- **Personalization of Large Language Models: A Survey**
+  <br> Transactions on Machine Learning Research (TMLR) 2025
+  <br> Zhehao Zhang, Ryan A. Rossi, Branislav Kveton, Yijia Shao, Diyi Yang, Hamed Zamani, Franck Dernoncourt, Joe Barrow, Tong Yu, Sungchul Kim, Ruiyi Zhang, Jiuxiang Gu, Tyler Derr, Hongjie Chen, Junda Wu, Xiang Chen, Zichao Wang, Subrata Mitra, Nedim Lipka, Nesreen Ahmed, **Yu Wang**
+  <br> [[Paper]](https://arxiv.org/abs/2411.00027)
+
+- **SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs**
+  <br> ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD) 2026
+  <br> Leyao Wang, **Yu Wang**, Bo Ni, Yuying Zhao, Haoyu Wang, Yao Ma, Tyler Derr
+
+- **Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs**
+  <br> In Proceedings of the ACM Web Conference (WWW) 2026
+  <br> Haoyu Han, Kai Guo, Harry Shomer, **Yu Wang**, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang
+
+- **A Survey on LLM-based Conversational User Simulation**
+  <br> Conference of European Chapter of Association for Computational Linguistics (EACL) 2026
+  <br> Bo Ni, Leyao Wang, **Yu Wang**, Yuying Zhao, Tyler Derr, Ryan A. Rossi
 
 - **From Selection to Generation: A Survey of LLM-based Active Learning**
   <br> Annual Meeting of the Association for Computational Linguistics (ACL) 2025
@@ -127,11 +115,6 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> IEEE Transactions on Network Science and Engineering (TNSE) 2025
   <br> Hongjie Chen, Ryan A. Rossi, Nesreen K. Ahmed, Namyong Park, **Yu Wang**, Tyler Derr
   <br> [[Paper]](https://ieeexplore.ieee.org/document/11029199)
-
-- **Personalization of Large Language Models: A Survey**
-  <br> Transactions on Machine Learning Research (TMLR) 2025
-  <br> Zhehao Zhang, Ryan A. Rossi, Branislav Kveton, Yijia Shao, Diyi Yang, Hamed Zamani, Franck Dernoncourt, Joe Barrow, Tong Yu, Sungchul Kim, Ruiyi Zhang, Jiuxiang Gu, Tyler Derr, Hongjie Chen, Junda Wu, Xiang Chen, Zichao Wang, Subrata Mitra, Nedim Lipka, Nesreen Ahmed, **Yu Wang**
-  <br> [[Paper]](https://arxiv.org/abs/2411.00027)
 
 - **Advancements in Ligand-Based Virtual Screening through the Synergistic Integration of Graph Neural Networks and Expert-Crafted Descriptors**
   <br> Journal of Chemical Information and Modeling (JCIM) 2025
@@ -293,3 +276,28 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **Distance-wise Prototypical Graph Neural Network in Node Imbalance Classification**
   <br> ACM SIGKDD Workshop on Mining and Learning with Graphs (KDD-MLoG) 2021 [[Paper]](https://arxiv.org/abs/2110.12035)[[Code]](https://github.com/yuwang0103/DPGNN)
   <br> **Yu Wang**, Charu Aggarwal, Tyler Derr
+
+
+**Preprints**
+- **Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation**
+  <br> Arxiv 2025
+  <br> Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, **Yu Wang**
+  <br> [[Paper]](https://arxiv.org/abs/2602.09319)[[Code]](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)
+
+- **Retrieval-augmented Generation with Graphs (GraphRAG)**
+  <br> Arxiv 2025 [[Paper]]()[[Code]]()
+  <br> **Yu Wang**, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang
+
+- **RAG vs. GraphRAG: A Systematic Evaluation and Key Insights**
+  <br> Arxiv 2025 [[Paper]]()[[Code]]()
+  <br> Haoyu Han, Harry Shomer, **Yu Wang**, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang
+
+- **Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling**
+  <br> bioRxiv 2023 
+  <br> Yunchao Liu, Rocco Moretti, **Yu Wang**, Bobby Bodenheimer, Tyler Derr, Jens Meiler
+  <br> [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153143/)
+
+- **A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures**
+  <br> Arxiv 2022 
+  <br> **Yu Wang**, Jin-Zhu Yu, Hiba Baroud
+  <br> [[Paper]](https://arxiv.org/abs/2211.15590)
