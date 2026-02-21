@@ -29,7 +29,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 **Book Chapter**
 - **Graph Neural Networks: Self-supervised Learning**
-  <br> In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao. Springer.
+  <br> **[Springer Nature]** In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao.
   <br> **Yu Wang**, Wei Jin, Tyler Derr
   <br> [[Chapter]](https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18)[[Book]](https://link.springer.com/book/10.1007/978-981-16-6054-2)
 
@@ -142,7 +142,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> [[Paper]](https://arxiv.org/abs/2308.11730)[[Code]](https://github.com/YuWVandy/KG-LLM-MDQA)
 
 - **WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking**
-  <br> Conference on Neural Information Processing Systems (NeurIPS) 2024
+  <br> **[NeurIPS 2024]** Conference on Neural Information Processing Systems
   <br> Yunchao Liu, Ha Dong, Xin Wang, Rocco Moretti, **Yu Wang**, Zhaoqian Su, Jiawei Gu, Bobby Bodenheimer, Charles Weaver, Jens Meiler, Tyler Derr
   <br> [[Paper]](https://arxiv.org/abs/2411.09820)[[Code]](http://www.welqrate.org/)
 
