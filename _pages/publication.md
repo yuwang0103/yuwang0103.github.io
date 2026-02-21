@@ -23,44 +23,6 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> SIAM International Conference on Data Mining (SDM) 2024
   <br> **Yu Wang**, Yijun Tian, Tong Zhao, Xiaorui Liu, Jian Kang, Tyler Derr
 
-**Workshops**
-- **Building Trust in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework**
-  <br> SIAM International Conference on Data Mining, AI for Time Series Workshop (SDM-AI4TS) 2026
-  <br> Riya Ponraj, Ram Durairajan, **Yu Wang**
-
-- **Unveiling Submarine Cable Paths: A Self-Supervised Contrastive Learning Approach**
-  <br> ACM Internet Measurement Conference Student Workshop (IMC-SW) 2025
-  <br> Riya Ponraj, **Yu Wang**, Ramakrishnan Durairajan
-
-- **Mixture of Structural-and-Textual Retrieval over Text-rich Graph**
-  <br> Nations of the Americas Chapter of the ACL, Student Research Workshop (NAACL-SRM) 2025
-  <br> Yongjia Lei, **Yu Wang**
-
-- **Network Management with Graph Machine Learning**
-  <br> Security Datasets for AI Workshop (SECDAI) 2024
-  <br> **Yu Wang**, Ram Durairajan
-
-- **Data-quality Aware Graph Machine Learning**
-  <br> SIAM International Conference on Data Mining Doctoral Forum (SDM-DF) 2024
-  <br> **Yu Wang**
-  <br><span style="color:red">**Best Poster Award Runner-up**</span>
-
-- **Knowledge Graph Prompting for Multi-Document Question Answering**
-  <br> NeurIPS New Frontiers in Graph Learning Workshop (GLFrontiers) 2023 [[Paper]](https://arxiv.org/abs/2308.11730)
-  <br> **Yu Wang**, Nedim Lipka, Ryan Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr
-  <br><span style="color:red">**Best Paper Award (1/70)**</span>
-
-- **Degree-Related Bias in Link Prediction**
-  <br> IEEE International Conference on Data Mining Workshops (ICDMW) 2022
-  <br> **Yu Wang**, Tyler Derr
-
-- **Overcoming Data Quality Issues of Graph Neural Networks**
-  <br> SIAM International Conference on Data Mining Doctoral Forum (SDM-DF) 2022
-  <br> **Yu Wang**
-
-- **Distance-wise Prototypical Graph Neural Network in Node Imbalance Classification**
-  <br> ACM SIGKDD Workshop on Mining and Learning with Graphs (KDD-MLoG) 2021 [[Paper]](https://arxiv.org/abs/2110.12035)[[Code]](https://github.com/yuwang0103/DPGNN)
-  <br> **Yu Wang**, Charu Aggarwal, Tyler Derr
 
 **Book Chapter**
 - **Graph Neural Networks: Self-supervised Learning**
@@ -91,6 +53,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures**
   <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2211.15590)
   <br> **Yu Wang**, Jin-Zhu Yu, Hiba Baroud
+
 
 **Conference/Journal Papers**
 
@@ -266,3 +229,44 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **An Enhanced Percolation Method for Automatic Detection of Cracks in Bridges**
   <br> Advances in Civil Engineering 2020
   <br> Qingfei Gao, **Yu Wang**, Jun Li, Kejian Sheng, Chenguang Liu
+
+
+
+**Workshop Papers**
+- **Building Trust in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework**
+  <br> SIAM International Conference on Data Mining, AI for Time Series Workshop (SDM-AI4TS) 2026
+  <br> Riya Ponraj, Ram Durairajan, **Yu Wang**
+
+- **Unveiling Submarine Cable Paths: A Self-Supervised Contrastive Learning Approach**
+  <br> ACM Internet Measurement Conference Student Workshop (IMC-SW) 2025
+  <br> Riya Ponraj, **Yu Wang**, Ramakrishnan Durairajan
+
+- **Mixture of Structural-and-Textual Retrieval over Text-rich Graph**
+  <br> Nations of the Americas Chapter of the ACL, Student Research Workshop (NAACL-SRM) 2025
+  <br> Yongjia Lei, **Yu Wang**
+
+- **Network Management with Graph Machine Learning**
+  <br> Security Datasets for AI Workshop (SECDAI) 2024
+  <br> **Yu Wang**, Ram Durairajan
+
+- **Data-quality Aware Graph Machine Learning**
+  <br> SIAM International Conference on Data Mining Doctoral Forum (SDM-DF) 2024
+  <br> **Yu Wang**
+  <br><span style="color:red">**Best Poster Award Runner-up**</span>
+
+- **Knowledge Graph Prompting for Multi-Document Question Answering**
+  <br> NeurIPS New Frontiers in Graph Learning Workshop (GLFrontiers) 2023 [[Paper]](https://arxiv.org/abs/2308.11730)
+  <br> **Yu Wang**, Nedim Lipka, Ryan Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr
+  <br><span style="color:red">**Best Paper Award (1/70)**</span>
+
+- **Degree-Related Bias in Link Prediction**
+  <br> IEEE International Conference on Data Mining Workshops (ICDMW) 2022
+  <br> **Yu Wang**, Tyler Derr
+
+- **Overcoming Data Quality Issues of Graph Neural Networks**
+  <br> SIAM International Conference on Data Mining Doctoral Forum (SDM-DF) 2022
+  <br> **Yu Wang**
+
+- **Distance-wise Prototypical Graph Neural Network in Node Imbalance Classification**
+  <br> ACM SIGKDD Workshop on Mining and Learning with Graphs (KDD-MLoG) 2021 [[Paper]](https://arxiv.org/abs/2110.12035)[[Code]](https://github.com/yuwang0103/DPGNN)
+  <br> **Yu Wang**, Charu Aggarwal, Tyler Derr
