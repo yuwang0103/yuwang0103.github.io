@@ -20,12 +20,12 @@ Research Interests:
 ------
 - Data Mining and Machine Learning
 - Neural-Symbolic Learning
-- Graph and Network
 - LLM + Structured Knowledge
-- AI/ML/DM Applications
+- Agentic AI for:
   - Document Intelligence
   - Social Computing
-  - Networking Physical Infrastructure
+  - Natural Science and Infrastructure System
+- Graph and Network
 
 Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
