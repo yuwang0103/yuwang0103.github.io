@@ -24,7 +24,7 @@ Research Interests:
 - Agentic AI for:
   - Document Intelligence
   - Social Computing
-  - Natural Science and Infrastructure System
+  - Natural Science and Hazards for Infrastructure System
 - Graph and Network
 
 Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
@@ -36,7 +36,7 @@ News
 🐴 2026
 -----
 <ul>
-<li>[02] Invited to Attend NSF NAIRR Pilot Meeting, see you in DC!</li>
+<li>[02] 🎤 Invited to Attend NSF NAIRR Pilot Meeting, see you in DC!</li>
 <li>[02] 📚 <a href="https://arxiv.org/abs/2602.09319">Benchmarking Knowledge-Extraction Attack and Defense on RAG</a> is online</li>
 <li>[01] 📚 <a href="http://ryanrossi.com/pubs/LLM-based_User_Simulated_Data_Generation_Survey.pdf"> Large Language Models for Conversational User Simulation</a> accepted at EACL 2026.</li>
 <li>[01] 📚 Paper on  <a href=''>RL Exploration on Graphs</a> accepted at WWW'26!</li>

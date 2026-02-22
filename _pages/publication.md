@@ -153,7 +153,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **Knowledge Graph Prompting for Multi-Document Question Answering**
   <br> **[AAAI 2024]** The 38th AAAI Conference on Artificial Intelligence
   <br> **Yu Wang**, Nedim Lipka, Ryan Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr
-  <br><span style="color:red">**Best Paper Award at GLFrontiers Workshop in Neurips'23**</span>
+  <br><span style="color:red">**Best Paper Award (1/70) at GLFrontiers Workshop in Neurips'23**</span>
   <br> [[Paper]](https://arxiv.org/abs/2308.11730)[[Code]](https://github.com/YuWVandy/KG-LLM-MDQA)
 
 - **WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking**

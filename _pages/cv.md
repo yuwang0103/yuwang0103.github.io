@@ -21,13 +21,17 @@ You can find my most up-to-date CV <a href='https://yuwang0103.github.io/_pages/
 
 Experience
 -----
-* Sept. 2019 - Now: Research Assistant/Teaching Assistant, Vanderbilt University
+* Sept. 2024 - Now: Assistant Professor, University of Oregon
+* Sept. 2019 - July. 2024: Research Assistant/Teaching Assistant, Vanderbilt University
 * May 2023 - Dec 2023: Research Intern, Adobe Inc.
 * May 2022 - Dec 2022: Research Intern, The Home Depot.
 
 
 Awards
 -----
+* 2025 ACM SIGKDD Best Dissertation Award Honorable Mention
+* Outstanding Reviewer at Applied Data Science Track at ECML-PKDD’24
+* Best Doctoral Forum Poster Runner-Up at SDM’24
 * Outstanding Doctoral Student Award for the 2023-2024 academic year at Vanderbilt University
 * Best Paper Award at GLFrontiers Workshop in Neurips, 2023
 * Vanderbilt’s Graduate Leadership Anchor Award for Research, 2023

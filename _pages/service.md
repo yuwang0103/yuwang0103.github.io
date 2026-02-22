@@ -7,11 +7,17 @@ author_profile: true
 You can find my most up-to-date service [here](https://yuwang0103.github.io/_pages/CV.pdf#nameddest=EXTERNAL%20SERVICES).
 
 **Workshop Organizer**
-- **Machine Learning on Graphs (MLoG)**, Web Chair
-  <br> Proceedings of the 17th ACM International Conference on Web Search and Data Mining (WSDM) 2024
+- **SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs era**, Organizer
+  <br> **[ACL 2026]** The 64th Annual Meeting of the Association for Computational Linguistics
+
+- **Machine Learning on Graphs in the Era of Artificial General Intelligence**, Lead Organizer
+  <br> **[KDD 2025]** ACM SIGKDD Conference on Knowledge Discovery & Data Mining
 
 - **Machine Learning on Graphs (MLoG)**, Web Chair
-  <br> Proceedings of the 15th ACM International Conference on Web Search and Data Mining (WSDM) 2022
+  <br> **[WSDM 2024]** Proceedings of the 17th ACM International Conference on Web Search and Data Mining
+
+- **Machine Learning on Graphs (MLoG)**, Web Chair
+  <br> **[WSDM 2022]** Proceedings of the 15th ACM International Conference on Web Search and Data Mining
 
 
 **Program Committee Member**
@@ -27,6 +33,8 @@ You can find my most up-to-date service [here](https://yuwang0103.github.io/_pag
 
 
 **Conference Reviewer**
+- eural Information Processing Systems (NeurIPS), 2025
+- International Conference on Learning Representation (ICLR), 2024
 - Learning on Graphs Conference (LOG), 2023
 - Association for the Advancement of Artificial Intelligence (AAAI), 2023
 - ACM International Conference on Web Search and Data Mining (WSDM), 2023
