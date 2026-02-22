@@ -8,12 +8,12 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 **Workshops**
 - **Machine Learning on Graphs in the Era of Generative Artificial Intelligence**
-  <br> **[KDD 2025]** ACM International Conference on Web Search and Data Mining
+  <br> **[KDD 2025]** ACM SIGKDD Conference on Knowledge Discovery & Data Mining
   <br> **Yu Wang**, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahmed, Mahantesh Halappanavar, Jiliang Tang
   <br> [[Website]](https://mlgraphworkshop.github.io/)
 
 - **SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs era**
-  <br> **[ACL 2026]** The 64th Annual Meeting of the Association for Computational Linguistics
+  <br> **[ACL 2026]** Annual Meeting of the Association for Computational Linguistics
   <br> Vivek Gupta, Kaize Ding, Harsha Kokel, Yue Zhao, Amit Agarwal, Yu Wang, Michael Glass, Yu Zhang, Kavitha Srinivas, Xiusi Chen, Oktie Hassanzadeh, Qi Zhu, Shuaichen Chang, Yuan Luo
   <br> [[Website]](https://surgellm.github.io/acl2026/)
 

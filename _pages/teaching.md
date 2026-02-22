@@ -7,17 +7,21 @@ author_profile: true
 Most up-to-date teaching experiences are [here](https://yuwang0103.github.io/_pages/CV.pdf#nameddest=TEACHING%20EXPERIENCE)
 
 **Course**
-- [CS 410/510 Data Mining and Machine Learning on Graphs](https://ml-graph.github.io/fall-2024/)
-  <br> Undergraduate/Graduate, Fall 2024
+- CS 410/510 Machine Learning on Graphs
+  <br> [Fall 2024](https://ml-graph.github.io/fall-2024/)
+  <br> Undergraduate/Graduate
   <br> University of Oregon, Eugene, OR
-- [CS 453 Data Mining](https://ml-graph.github.io/winter-2025/)
-  <br> Undergraduate/Graduate, Winter 2025
+- CS 453/553 Data Mining
+  <br> [Winter 2025](https://ml-graph.github.io/winter-2025/)[Winter 2026](https://ml-graph.github.io/winter-2026/)
+  <br> Undergraduate/Graduate
   <br> University of Oregon, Eugene, OR
-- [CS 610 Advanced Machine Learning](https://ml-graph.github.io/spring-2025/)
-  <br> Graduate, Spring 2025
+- CS 610 Advanced Machine Learning for Generative AI
+  <br> [Spring 2025](https://ml-graph.github.io/spring-2025/)[Spring 2026](https://ml-graph.github.io/spring-2026/)
+  <br> Graduate
   <br> University of Oregon, Eugene, OR
-- [CS 607 Special Topics in Graph Machine Learning](https://ml-graph.github.io/spring-2025-seminar/)
-  <br> Graduate, Spring 2025
+- CS 607 Research Seminar in ML/AI
+  <br> [Spring 2025](https://ml-graph.github.io/spring-2025-seminar/)[Winter 2026](https://ml-graph.github.io/winter-2026-seminar/schedule/)
+  <br> Graduate
   <br> University of Oregon, Eugene, OR
 
 **Teaching Assistant**
