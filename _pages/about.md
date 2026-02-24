@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon, where he directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in machine learning, Agentic AI (LLMs), and networks/graphs. He received his Ph.D. in Computer Science from Vanderbilt University. His overarching research vision is to harmonize structural and neural knowledge via developing structure-rigorized neural processing and neural-guided structure abstraction to build data-centric, trustworthy, and socially beneficial solutions, including document intelligence, social personalization, infrastructure systems, and drug discovery. To check Yu's research, please check this comprehensive video for more information <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>Link</a>.
+Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon, where he directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in machine learning, Agentic AI (LLMs), and networks/graphs. He received his Ph.D. in Computer Science from Vanderbilt University. His overarching research vision is to harmonize structural and neural knowledge via developing structure-rigorized neural processing and neural-guided structure abstraction to build data-centric, trustworthy, and socially beneficial solutions, including document intelligence, social personalization, and natural science. To check Yu's research, please check this comprehensive video for more information <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>Link</a>.
 
 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
@@ -37,7 +37,7 @@ News
 -----
 <ul>
 <li>[02] 🎤 Invited to Attend NSF NAIRR Pilot Meeting, see you in DC!</li>
-<li>[02] 📚 <a href="https://arxiv.org/abs/2602.09319">Benchmarking Knowledge-Extraction Attack and Defense on RAG</a> is online</li>
+<li>[02] 📚 Zhisheng's first Paper on <a href="https://arxiv.org/abs/2602.09319">Benchmarking Knowledge-Extraction Attack and Defense on RAG</a> is online</li>
 <li>[01] 📚 <a href="http://ryanrossi.com/pubs/LLM-based_User_Simulated_Data_Generation_Survey.pdf"> Large Language Models for Conversational User Simulation</a> accepted at EACL 2026.</li>
 <li>[01] 📚 Paper on  <a href=''>RL Exploration on Graphs</a> accepted at WWW'26!</li>
 </ul>
@@ -45,20 +45,19 @@ News
 🐍 2025
 -----
 <ul>
-<li>[12] 📚 Paper on  <a href=''>Rule Mining and Learning for Structured Knowledge Retrieval</a> accepted at WSDM'26!</li>
-<li>[11] 📚 My first master student Utkarsh's first work on  <a href='https://arxiv.org/abs/2509.23773'>Knowledge Homophily in Large Language Models</a> accepted at WSDM'26!</li>
+<li>[12] 📚 Yongjia's Paper on  <a href=''>Rule Mining and Learning for Structured Knowledge Retrieval</a> accepted at WSDM'26!</li>
+<li>[11] 📚 Utkarsh's first Paper on  <a href='https://arxiv.org/abs/2509.23773'>Knowledge Homophily in Large Language Models</a> accepted at WSDM'26!</li>
 <li>[11] 📚 Paper on  <a href=''>SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs</a> accepted at KDD'26!</li>
-<li>[11] 📚 Paper on  <a href='https://arxiv.org/abs/2509.18007'>Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework</a> accepted at KDD'26!</li>
-<li>[11] 🎤 Talk at <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>AI Seminar at Oregon State University</a> on "Rigorizing Neural Thinking with Structural Intelligence"!</li>
-<li>[10] 📚 Tutorial on  <a href=''>Democratizing RAG with Structured Knowledge Intelligence</a> accepted at WSDM'26!</li>
-<li>[09] 📚 Workshop Paper on  <a href=''>Contrastive Learning approach to Submarine Network Cartography</a> accepted at IMC Student Workshop'25!</li>
+<li>[11] 📚 Riya's First Paper on  <a href='https://arxiv.org/abs/2509.18007'>Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework</a> accepted at KDD'26!</li>
+<li>[11] 🎤 Yu Invited Talk at <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>AI Seminar at Oregon State University</a> on "Rigorizing Neural Thinking with Structural Intelligence"!</li>
+<li>[10] 📚 Our Group Tutorial on  <a href=''>Democratizing RAG with Structured Knowledge Intelligence</a> accepted at WSDM'26!</li>
+<li>[09] 📚 Riya's Workshop Paper on  <a href=''>Contrastive Learning approach to Submarine Network Cartography</a> accepted at IMC Student Workshop'25!</li>
 <li>[09] 📚 Workshop <a href=''>SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs Era</a> accepted at ACL'26!</li>
 <li>[08] 📚 Paper on  <a href='https://arxiv.org/abs/2503.13804'>Knowledge Filtering and Integration for GraphRAG</a> accepted at EMNLP'25!</li>
 <li>[08] 💰 <span style="color:red"><b>Our NSF-NAIRR Pilot project on developing Foundational GraphRAG has been selected!</b></span></li>
-<li>[08] 📚 Paper on SSL for Unveiling Submarine Cable Paths has been accepted at IMC 2025 Student Workshop!</li>
+<li>[08] 📚 Riya's Paper on SSL for Unveiling Submarine Cable Paths has been accepted at IMC 2025 Student Workshop!</li>
 <li>[08] 🎉 <span style="color:red"><b>Received KDD Outstanding Dissertation Award Honorable Mention!</b></span></li>
 <li>[07] 💰 <span style="color:red"><b>Received NSF IIS-III Core Program Award as lead PI. This project aims to well-round GraphRAG for society, security, and science!</b></span></li>
-<!-- <li>[07] 💰 <span style="color:red"><b><a href='https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/'>Collaborative Research</a> Received NSF IIS-III Core Program (my role: lead PI). This project aims to well-round GraphRAG for society, security, and science!</b></span></li> -->
 <li>[07] 📚 Paper on <a href='https://arxiv.org/abs/2411.01747'>Agentic Learning beyond Pre-defined Action Space</a> accepted at COLM'25!</li>
 <li>[06] 📚 Paper on <a href='https://ieeexplore.ieee.org/document/11029199'>Edge Splitting for Temporal Graph</a> has been accepted at <a href='https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902'>TNSE</a>!</li>
 <li>[06] 📚 Survey on <a href='https://arxiv.org/abs/2411.00027'>Personalization of LLMs</a> has been accepted at <a href='https://jmlr.org/tmlr/'>TMLR</a>!</li>
