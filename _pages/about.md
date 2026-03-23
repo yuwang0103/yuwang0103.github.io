@@ -36,6 +36,7 @@ News
 🐴 2026
 -----
 <ul>
+<li>[03] 📚 Our collaborative project 'Fast-Food Brand Marketing and User Engagement on Instagram' has been accepted by the Meta Content Library!</li>
 <li>[02] 🎤 Invited to Attend NSF NAIRR Pilot Meeting, see you in DC!</li>
 <li>[02] 📚 Zhisheng's first Paper on <a href="https://arxiv.org/abs/2602.09319">Benchmarking Knowledge-Extraction Attack and Defense on RAG</a> is online</li>
 <li>[01] 📚 <a href="http://ryanrossi.com/pubs/LLM-based_User_Simulated_Data_Generation_Survey.pdf"> Large Language Models for Conversational User Simulation</a> accepted at EACL 2026.</li>
