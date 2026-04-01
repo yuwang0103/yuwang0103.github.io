@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon, where he directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in machine learning, Agentic AI (LLMs), and networks/graphs. He received his Ph.D. in Computer Science from Vanderbilt University. His overarching research vision is to harmonize structural and neural knowledge via developing structure-rigorized neural processing and neural-guided structure abstraction to build data-centric, trustworthy, and socially beneficial solutions, including document intelligence, social personalization, and infrastructure system. To check Yu's research, please check this comprehensive video for more information <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>Link</a>.
+Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon, where he directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in machine learning, Agentic AI (LLMs), and graphs. He received his Ph.D. in Computer Science from Vanderbilt University. His overarching research vision is to harmonize structural and neural knowledge via developing structure-rigorized neural processing and neural-guided structure abstraction to build data-centric, trustworthy, and socially beneficial solutions, including document intelligence, social personalization, and infrastructure system. To check Yu's research, please check this comprehensive video for more information <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>Link</a>.
 
 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
@@ -25,7 +25,7 @@ Research Interests:
   - Document Intelligence
   - Social Computing
   - Natural Science and Hazards for Infrastructure System
-- Graph and Network
+- Graph and Physical Infrastructure
 
 Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
