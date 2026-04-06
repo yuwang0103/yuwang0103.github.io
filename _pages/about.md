@@ -36,6 +36,8 @@ News
 🐴 2026
 -----
 <ul>
+<li>[04] 💰 <span style="color:red"><b>Our NSF-NAIRR Pilot project on "Multi-Modal Agentic Social Network Modeling and Optimization" has been selected!</b></span></li>
+<li>[04] 📚 Paper on <a href=''>ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents</a> accepted at ACL'26 main track!</li>
 <li>[03] 📚 Our collaborative project 'Fast-Food Brand Marketing and User Engagement on Instagram' has been accepted by the Meta Content Library!</li>
 <li>[02] 🎤 Invited to Attend NSF NAIRR Pilot Meeting, see you in DC!</li>
 <li>[02] 📚 Zhisheng's first Paper on <a href="https://arxiv.org/abs/2602.09319">Benchmarking Knowledge-Extraction Attack and Defense on RAG</a> is online</li>
