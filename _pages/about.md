@@ -36,6 +36,7 @@ News
 🐴 2026
 -----
 <ul>
+<li>[05] 🎤 Invited to serve as NSF Panel!</li>
 <li>[04] 💰 <span style="color:red"><b>Our NSF-NAIRR Pilot project on "Multi-Modal Agentic Social Network Modeling and Optimization" has been selected!</b></span></li>
 <li>[04] 📚 Paper on <a href=''>ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents</a> accepted at ACL'26 main track!</li>
 <li>[03] 📚 Our collaborative project 'Fast-Food Brand Marketing and User Engagement on Instagram' has been accepted by the Meta Content Library!</li>
