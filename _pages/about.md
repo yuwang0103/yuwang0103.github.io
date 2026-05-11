@@ -36,6 +36,7 @@ News
 🐴 2026
 -----
 <ul>
+<li>[05] 🎤 Invited to talk at <a href="https://tpc.dev/tpc-seminar-series/">Trillion Parameter Consortium (TPC) AI for Science Seminar Series</a>!</li>
 <li>[05] 🎤 Invited to serve as NSF Panel!</li>
 <li>[04] 💰 <span style="color:red"><b>Our NSF-NAIRR Pilot project on "Multi-Modal Agentic Social Network Modeling and Optimization" has been selected!</b></span></li>
 <li>[04] 📚 Paper on <a href=''>ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents</a> accepted at ACL'26 main track!</li>
