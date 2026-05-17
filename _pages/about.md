@@ -36,10 +36,10 @@ News
 🐴 2026
 -----
 <ul>
-<li>[05] 🎤 Invited to talk at <a href="https://tpc.dev/tpc-seminar-series/">Trillion Parameter Consortium (TPC) AI for Science Seminar Series</a>!</li>
-<li>[05] Invited to serve as NSF Panel!</li>
 <li>[05] 📚 Zhisheng's first paper on <a href=''>Privacy Preserving on RAG</a> accepted at KDD'26 Benchmark&Dataset Track (Oral)!</li>
 <li>[05] 📚 Our paper on <a href=''>RAG vs. GraphRAG: A Systematic Evaluation and Key Insights</a> accepted at KDD'26 Benchmark&Dataset Track!</li>
+<li>[05] 🎤 Invited to talk at <a href="https://tpc.dev/tpc-seminar-series/">Trillion Parameter Consortium (TPC) AI for Science Seminar Series</a>!</li>
+<li>[05] Invited to serve as NSF Panel!</li>
 <li>[04] 💰 <span style="color:red"><b>Our NSF-NAIRR Pilot project on "Multi-Modal Agentic Social Network Modeling and Optimization" has been selected!</b></span></li>
 <li>[04] 📚 Paper on <a href=''>ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents</a> accepted at ACL'26 main track!</li>
 <li>[03] 📚 Our collaborative project 'Fast-Food Brand Marketing and User Engagement on Instagram' has been accepted by the Meta Content Library!</li>
