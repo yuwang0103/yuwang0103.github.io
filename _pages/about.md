@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Yu Wang is an incoming Assistant Professor in the [School of Computing](https://computing.uga.edu/) and [Institute of AI](https://www.ai.uga.edu/) at the University of Georgia, starting August 1, 2026. He directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in machine learning, Agentic AI (LLMs), and Graph-structured Data. He received his Ph.D. in Computer Science from Vanderbilt University.
+Yu Wang is an incoming Assistant Professor in the [School of Computing](https://computing.uga.edu/) and [Institute of AI](https://www.ai.uga.edu/) at the University of Georgia, starting August 1, 2026. He directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in machine learning, Agentic AI (LLMs), and Graph-structured Data. He received his Ph.D. in Computer Science from Vanderbilt University. His overarching research vision is to harmonize structural and neural knowledge via developing structure-rigorized neural processing and neural-guided structure abstraction to build effective and trustworthy ML solutions for infrastructure and scientific applications.
 
 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated Ph.D. students for Spring 2027 and Fall 2027, as well as research interns, master's students, undergraduate students, and visiting students/scholars. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
