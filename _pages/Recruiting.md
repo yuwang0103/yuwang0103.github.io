@@ -4,7 +4,7 @@ title: "Recruiting"
 permalink: /recruiting/
 author_profile: true
 ---
-Yu is an incoming Assistant Professor in the School of Computing and Institute of AI at the University of Georgia, starting August 1, 2026. He is looking for Ph.D. students interested in pursuing data mining and machine learning research for Spring 2027 and Fall 2027. Master's and undergraduate students and self-funded visiting students/scholars are also welcome to apply.
+Yu is an incoming Assistant Professor in the [School of Computing](https://computing.uga.edu/) and [Institute of AI](https://www.ai.uga.edu/) at the University of Georgia, starting August 1, 2026. He is looking for Ph.D. students interested in pursuing data mining and machine learning research for Spring 2027 and Fall 2027. Master's and undergraduate students and self-funded visiting students/scholars are also welcome to apply.
 So please reach out if interested.
 
 
@@ -19,7 +19,7 @@ So please reach out if interested.
   
 ### University of Georgia and Athens
 ------
-The University of Georgia (UGA), founded in 1785, is a public research university in Athens, Georgia. Yu will join UGA's School of Computing and Institute of AI. Prospective Ph.D. students should review the School of Computing graduate admissions information and Ph.D. program requirements.
+The University of Georgia (UGA), founded in 1785, is a public research university in Athens, Georgia. Yu will join UGA's [School of Computing](https://computing.uga.edu/) and [Institute of AI](https://www.ai.uga.edu/). Prospective Ph.D. students should review the School of Computing graduate admissions information and Ph.D. program requirements.
 
 Please look at the following resources on why you may want to choose the University of Georgia and why you deserve the right advisor for your Ph.D.
 - <a href='https://computing.uga.edu/doctor-philosophy-computer-science' target="_blank">UGA Ph.D. in Computer Science</a>.

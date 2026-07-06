@@ -21,7 +21,7 @@ You can find my most up-to-date CV <a href='https://yuwang0103.github.io/_pages/
 
 Experience
 -----
-* Starting Aug. 2026: Incoming Assistant Professor, School of Computing and Institute of AI, University of Georgia
+* Starting Aug. 2026: Incoming Assistant Professor, [School of Computing](https://computing.uga.edu/) and [Institute of AI](https://www.ai.uga.edu/), University of Georgia
 * Sept. 2024 - July 2026: Assistant Professor, University of Oregon
 * Sept. 2019 - July. 2024: Research Assistant/Teaching Assistant, Vanderbilt University
 * May 2023 - Dec 2023: Research Intern, Adobe Inc.
