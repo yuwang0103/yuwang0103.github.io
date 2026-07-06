@@ -13,9 +13,6 @@ Yu Wang is an incoming Assistant Professor in the [School of Computing](https://
 
 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated Ph.D. students for Spring 2027 and Fall 2027, as well as research interns, master's students, undergraduate students, and visiting students/scholars. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
-<span style="color:red">**See the comprehensive information in [Post1](https://yuwang0103.github.io/recruiting/) and [Post2](https://mp.weixin.qq.com/s/ulv71WoDC0Oi7WbXzmdl1Q)**
-
-
 Research Interests:
 ------
 **Direction:**
