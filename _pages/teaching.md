@@ -7,6 +7,8 @@ author_profile: true
 Most up-to-date teaching experiences are [here](https://yuwang0103.github.io/_pages/CV.pdf#nameddest=TEACHING%20EXPERIENCE)
 
 **Course**
+
+**University of Oregon**
 - CS 410/510 Machine Learning on Graphs
   <br> [Fall 2024](https://ml-graph.github.io/fall-2024/)
   <br> Undergraduate/Graduate

@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
-Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon, where he directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in machine learning, Agentic AI (LLMs), and graphs. He received his Ph.D. in Computer Science from Vanderbilt University. His overarching research vision is to harmonize structural and neural knowledge via developing structure-rigorized neural processing and neural-guided structure abstraction to build data-centric, trustworthy, and socially beneficial solutions, including document intelligence, social personalization, and infrastructure system. To check Yu's research, please check this comprehensive video for more information <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>Link</a>.
+Yu Wang is an incoming Assistant Professor in the School of Computing and Institute of AI at the University of Georgia, starting August 1, 2026. He directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in machine learning, Agentic AI (LLMs), and graphs. He received his Ph.D. in Computer Science from Vanderbilt University. His overarching research vision is to harmonize structural and neural knowledge via developing structure-rigorized neural processing and neural-guided structure abstraction to build data-centric, trustworthy, and socially beneficial solutions, including document intelligence, social personalization, and infrastructure system. To check Yu's research, please check this comprehensive video for more information <a href='https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543'>Link</a>.
 
-📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
+<span style="color:red">**I will move to the University of Georgia this Fall and am continuing recruiting. Welcome to connect!**</span>
+
+📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated Ph.D. students for Spring 2027 and Fall 2027, as well as research interns, master's students, undergraduate students, and visiting students/scholars. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
 <span style="color:red">**See the comprehensive information in [Post1](https://yuwang0103.github.io/recruiting/) and [Post2](https://mp.weixin.qq.com/s/ulv71WoDC0Oi7WbXzmdl1Q)**
 
@@ -27,7 +29,7 @@ Research Interests:
   - Natural Science and Hazards for Infrastructure System
 - Graph and Physical Infrastructure
 
-Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
+Email: yw20254@uga.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
 News
 ======

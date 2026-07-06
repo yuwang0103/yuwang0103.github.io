@@ -21,7 +21,8 @@ You can find my most up-to-date CV <a href='https://yuwang0103.github.io/_pages/
 
 Experience
 -----
-* Sept. 2024 - Now: Assistant Professor, University of Oregon
+* Starting Aug. 2026: Incoming Assistant Professor, School of Computing and Institute of AI, University of Georgia
+* Sept. 2024 - July 2026: Assistant Professor, University of Oregon
 * Sept. 2019 - July. 2024: Research Assistant/Teaching Assistant, Vanderbilt University
 * May 2023 - Dec 2023: Research Intern, Adobe Inc.
 * May 2022 - Dec 2022: Research Intern, The Home Depot.

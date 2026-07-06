@@ -81,13 +81,13 @@ Location: Mesquite Room (at The Westin Houston, Memorial City in Houston, TX)
 
 ## Slides
 You can download our slides or see them embedded below.
-Download <a href="https://yuwvandy.github.io/_pages/tutorial_ppt.pdf"> link</a>
+Download <a href="https://yuwang0103.github.io/_pages/tutorial_ppt.pdf"> link</a>
 
 ## Speakers Bio's
 
 <img src="../images/Yu.png" class="img-responsive" width="10%">
 
-<b>Yu Wang</b> is a Ph.D. candidate of Computer Science at Vanderbilt University. His research focuses on data-centric graph machine learning, data-quality aware graph neural networks with applications in recommender systems and information retrieval. He has published in top conferences (e.g., KDD, WWW, WSDM, AAAI and CIKM) and has also served as a program committee member/reviewer at AAAI, SDM, KDD, TKDD, TKDE, etc. He has received numerous awards including Vanderbilt's Graduate Leadership Anchor Award for Research in 2023 and Vanderbilt's C.F. Chen Best Paper Award in 2022. More details are in <a href="https://yuwvandy.github.io/">https://yuwvandy.github.io/</a>. 
+<b>Yu Wang</b> is an incoming Assistant Professor in the School of Computing and Institute of AI at the University of Georgia, starting August 1, 2026. He received his Ph.D. in Computer Science from Vanderbilt University. His research focuses on data-centric graph machine learning, data-quality aware graph neural networks, and structured knowledge intelligence with applications in recommender systems and information retrieval. He has published in top conferences (e.g., KDD, WWW, WSDM, AAAI and CIKM) and has also served as a program committee member/reviewer at AAAI, SDM, KDD, TKDD, TKDE, etc. He has received numerous awards including Vanderbilt's Graduate Leadership Anchor Award for Research in 2023 and Vanderbilt's C.F. Chen Best Paper Award in 2022. More details are in <a href="https://yuwang0103.github.io/">https://yuwang0103.github.io/</a>.
 <br>
 
 <img src="../images/Yijun.png" class="img-responsive" width="10%">
