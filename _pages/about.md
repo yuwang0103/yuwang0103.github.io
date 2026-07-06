@@ -21,8 +21,8 @@ Research Interests:
 **Direction:**
 - Data Mining and Machine Learning
 - Neural-Symbolic Learning
-- Agentic AI for Structured Data
-- Structured Processing for Managing Agentic Execution
+- Agentic AI for Structured Reasoning and Decision-making
+- Structured Intelligence for Trustworthy Agentic AI
 
 **Application:**
 - Infrastructure System
