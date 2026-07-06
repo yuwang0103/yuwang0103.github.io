@@ -20,14 +20,16 @@ Yu Wang is an incoming Assistant Professor in the [School of Computing](https://
 
 Research Interests:
 ------
+**Direction:**
 - Data Mining and Machine Learning
 - Neural-Symbolic Learning
-- Agentic AI (LLMs) + Structured Knowledge
-- Agentic AI for:
-  - Document Intelligence
-  - Social Computing
-  - Natural Science and Hazards for Infrastructure System
-- Graph and Physical Infrastructure
+- Agentic AI for Structured Data
+- Structured Processing for Managing Agentic Execution
+
+**Application:**
+- Infrastructure System
+- Drug Discovery
+- Document Intelligence
 
 Email: yw20254@uga.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 

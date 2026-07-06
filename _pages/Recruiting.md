@@ -10,12 +10,16 @@ So please reach out if interested.
 
 ### Research Interests:
 ------
+**Direction:**
 - Data Mining and Machine Learning
-- Multi-purpose Driven Machine Learning for LLM + Semi-structured Knowledge Database 
-- Data-centric Machine Learning for Generative Graph Models
-- Spatial and Temporal Machine Learning
-- LLM-powered Agent Planning, Reasoning, Collaboration, and Social Simulation
-- AI/ML Applications: Information Retrieval/Chemistry/Infrastructure
+- Neural-Symbolic Learning
+- Agentic AI for Structured Data
+- Structured Processing for Managing Agentic Execution
+
+**Application:**
+- Infrastructure System
+- Drug Discovery
+- Document Intelligence
   
 ### University of Georgia and Athens
 ------
