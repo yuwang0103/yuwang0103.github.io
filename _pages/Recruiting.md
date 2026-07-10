@@ -14,8 +14,8 @@ If you are interested, please email your CV, transcripts, and a brief descriptio
 **Direction:**
 - Data Mining and Machine Learning
 - Neural-Symbolic Learning
-- Agentic AI for Structured Reasoning and Decision-making
-- Structured Management for Trustworthy Agentic AI
+- Agentic AI for Structured Reasoning and Decision-Making
+- Structured Processing for Trustworthy Agentic AI
 
 **Application:**
 - Infrastructure System
