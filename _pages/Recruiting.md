@@ -9,13 +9,14 @@ Yu Wang will join the [School of Computing](https://computing.uga.edu/) and the 
 If you are interested, please email your CV, transcripts, and a brief description of your research interests to yw20254@uga.edu.
 
 
-### Research Interests:
+### Recruitment Direction:
 ------
 **Direction:**
 - Data Mining and Machine Learning
 - Neural-Symbolic Learning
 - Agentic AI for Structured Reasoning and Decision-Making
 - Structured Processing for Trustworthy Agentic AI
+- <span style="color:red">System &amp; Algorithm Co-Design for Efficient and Reliable Agentic System</span>
 
 **Application:**
 - Infrastructure System

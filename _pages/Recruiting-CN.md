@@ -16,6 +16,7 @@ Yu Wang 将于 2026 年 8 月 1 日加入佐治亚大学（University of Georgia
 - Neural-Symbolic Learning
 - Agentic AI for Structured Reasoning and Decision-Making
 - Structured Processing for Trustworthy Agentic AI
+- <span style="color:red">System &amp; Algorithm Co-Design for Efficient and Reliable Agentic System</span>
 
 **Application:**
 - Infrastructure System
