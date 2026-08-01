@@ -48,6 +48,27 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 **Conference/Journal Papers**
 
+- **ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents**
+  <br> **[ACL 2026]** Annual Meeting of the Association for Computational Linguistics
+  <br> Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, **Yu Wang**, Shuiwang Ji, Jianwen Xie, Yu Zhang
+  <br> [[Paper]](https://aclanthology.org/2026.acl-long.1477/)
+
+- **Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation**
+  <br> **[KDD 2026]** ACM SIGKDD Conference on Knowledge Discovery & Data Mining, Dataset and Benchmark Track
+  <br><span style="color:red">**Oral Presentation (4.5%)**</span>
+  <br> Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, **Yu Wang**
+  <br> [[Paper]](https://arxiv.org/abs/2602.09319)[[Code]](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)
+
+- **RAG vs. GraphRAG: A Systematic Evaluation and Key Insights**
+  <br> **[KDD 2026]** ACM SIGKDD Conference on Knowledge Discovery & Data Mining, Dataset and Benchmark Track
+  <br> Haoyu Han, Harry Shomer, **Yu Wang**, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang
+  <br> [[Paper]](https://arxiv.org/abs/2502.11371)[[Code]](https://github.com/haoyuhan1/RAGvsGraphRAG)
+
+- **A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures**
+  <br> **[PRE 2026]** Physical Review E
+  <br> **Yu Wang**, Jin-Zhu Yu, Hiba Baroud
+  <br> [[Paper]](https://journals.aps.org/pre/accepted/10.1103/vswp-h4hx)
+
 - **Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening**
   <br> **[SDM 2026]** SIAM International Conference on Data Mining
   <br> Xin Wang, **Yu Wang**, Yunchao Liu, Jens Meiler, Tyler Derr
@@ -68,6 +89,16 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> Utkarsh Sahu, Zhisheng Qi, Mahantesh M Halappanavar, Nedim Lipka, Ryan A Rossi, Franck Dernoncourt, Yu Zhang, Yao Ma, **Yu Wang**
   <br> [[Paper]](https://dl.acm.org/doi/10.1145/3773966.3779394)[[Code]](https://github.com/utkarshxsahu/kgc)
 
+- **Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey**
+  <br> **[CSUR 2026]** ACM Computing Surveys
+  <br> Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, **Yu Wang**, Meng Jiang, Tyler Derr
+  <br> [[Paper]](https://arxiv.org/abs/2502.06872)[[Code]](https://github.com/Arstanley/Awesome-Trustworthy-RAG)
+
+- **GUI Agents: A Survey**
+  <br> **[ACL 2025 Findings]** Annual Meeting of the Association for Computational Linguistics
+  <br> Dang Nguyen, Jian Chen, **Yu Wang**, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Jihyung Kil, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt
+  <br> [[Paper]](https://aclanthology.org/2025.findings-acl.1158/)
+
 - **Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases**
   <br> **[ACL 2025]** Annual Meeting of the Association for Computational Linguistics
   <br> Yongjia Lei, Haoyu Han, Ryan A Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M Halappanavar, Jiliang Tang, **Yu Wang**
@@ -79,6 +110,16 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> Zhehao Zhang, Ryan A. Rossi, Branislav Kveton, Yijia Shao, Diyi Yang, Hamed Zamani, Franck Dernoncourt, Joe Barrow, Tong Yu, Sungchul Kim, Ruiyi Zhang, Jiuxiang Gu, Tyler Derr, Hongjie Chen, Junda Wu, Xiang Chen, Zichao Wang, Subrata Mitra, Nedim Lipka, Nesreen Ahmed, **Yu Wang**
   <br> [[Paper]](https://arxiv.org/abs/2411.00027)
 
+- **A Survey on Small Language Models**
+  <br> **[RANLP 2025]** Recent Advances in Natural Language Processing
+  <br> Chien Van Nguyen, Xuan Shen, Ryan Aponte, Yu Xia, Samyadeep Basu, Zhengmian Hu, Jian Chen, Mihir Parmar, Sasidhar Kunapuli, Joe Barrow, Junda Wu, Ashish Singh, **Yu Wang**, Jiuxiang Gu, Nesreen K. Ahmed, Nedim Lipka, Ruiyi Zhang, Xiang Chen, Tong Yu, Sungchul Kim, Hanieh Deilamsalehy, Namyong Park, Michael Rimer, Zhehao Zhang, Huanrui Yang, Puneet Mathur, Gang Wu, Franck Dernoncourt, Ryan A. Rossi, Thien Huu Nguyen
+  <br> [[Paper]](https://aclanthology.org/2025.ranlp-1.93/)
+
+- **Personalized Graph-Based Retrieval for Large Language Models**
+  <br> **[PACLIC 2025]** Pacific Asia Conference on Language, Information and Computation
+  <br> Steven Au, Cameron J. Dimacali, Ojasmitha Pedirappagari, Namyong Park, Franck Dernoncourt, **Yu Wang**, Nikos Kanakaris, Hanieh Deilamsalehy, Ryan A. Rossi, Nesreen K. Ahmed
+  <br> [[Paper]](https://arxiv.org/abs/2501.02157)[[Website]](https://pgraphrag-benchmark.github.io/)
+
 - **SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs**
   <br> **[KDD 2026]** ACM SIGKDD Conference on Knowledge Discovery & Data Mining
   <br> Leyao Wang, **Yu Wang**, Bo Ni, Yuying Zhao, Haoyu Wang, Yao Ma, Tyler Derr
@@ -88,9 +129,10 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> **[WWW 2026]** In Proceedings of the ACM Web Conference
   <br> Haoyu Han, Kai Guo, Harry Shomer, **Yu Wang**, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang
 
-- **A Survey on LLM-based Conversational User Simulation**
+- **Large Language Models for Conversational User Simulation: A Comprehensive Survey**
   <br> **[EACL 2026]** Conference of European Chapter of Association for Computational Linguistics
   <br> Bo Ni, Leyao Wang, **Yu Wang**, Yuying Zhao, Tyler Derr, Ryan A. Rossi
+  <br> [[Paper]](http://ryanrossi.com/pubs/LLM-based_User_Simulated_Data_Generation_Survey.pdf)
 
 - **From Selection to Generation: A Survey of LLM-based Active Learning**
   <br> **[ACL 2025]** Annual Meeting of the Association for Computational Linguistics
@@ -140,7 +182,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> **[JCIM 2025]** Journal of Chemical Information and Modeling
   <br> Yunchao Liu, Rocco Moretti, **Yu Wang**, Ha Dong, Bobby Bodenheimer, Tyler Derr, Jens Meiler
 
-- **Augmenting Textual Generation via Topology Aware Retrieval**
+- **Topology-Aware Retrieval Augmentation for Text Generation**
   <br> **[CIKM 2024]** ACM International Conference on Information and Knowledge Management
   <br> **Yu Wang**, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, Bo Ni, Xin Wang, Ryan Rossi, Tyler Derr
   <br> [[Paper]](https://arxiv.org/abs/2405.17602)
@@ -242,6 +284,10 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> IEEE Systems Journal 2021
   <br> **Yu Wang**, Jin-Zhu Yu, Hiba Baroud
 
+- **Comparing Topology-Based and Flow-Based Resilience Assessment of Interdependent Infrastructure Networks**
+  <br> **[ICOSSAR 2022]** 13th International Conference on Structural Safety and Reliability
+  <br> Jinzhu Yu, **Yu Wang**, Hiba Baroud
+
 - **Quantifying the Interdependency Strength Across Critical Infrastructure Systems Using a Dynamic Network Flow Redistribution Model**
   <br> **[ESRC 2020]** Proceedings of the 30th European Safety and Reliability Conference
   <br> **Yu Wang**, Jinzhu Yu, Hiba Baroud
@@ -271,7 +317,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> **[NAACL-SRM 2025]** Nations of the Americas Chapter of the ACL, Student Research Workshop
   <br> Yongjia Lei, **Yu Wang**
 
-- **Network Management with Graph Machine Learning**
+- **Network Management with Graph Machine Learning: Challenges and Solutions**
   <br> **[SECDAI 2024]** Security Datasets for AI Workshop
   <br> **Yu Wang**, Ram Durairajan
 
@@ -299,25 +345,51 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 
 **Preprints**
-- **Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation**
+- **TRACE: Trajectory Reasoning through Adaptive Cross-Step Evidence Aggregation for LLM Agents**
+  <br> Arxiv 2026
+  <br> Vijitha Mittapalli, Shreyaa Jayant Dani, Satya Srujana Pilli, Snigdha Ansu, Mohammadreza Teymoorianfard, Franck Dernoncourt, Hongjie Chen, **Yu Wang**, Ryan A. Rossi, Nesreen K. Ahmed
+  <br> [[Paper]](https://arxiv.org/abs/2606.07054)
+
+- **RL-Index: Reinforcement Learning for Retrieval Index Reasoning**
+  <br> Arxiv 2026
+  <br> Yongjia Lei, Nedim Lipka, Zhisheng Qi, Utkarsh Sahu, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi, **Yu Wang**
+  <br> [[Paper]](https://arxiv.org/abs/2606.16316)
+
+- **Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction**
+  <br> Arxiv 2026
+  <br> Utkarsh Sahu, Zhisheng Qi, Li Zhu, Yizhao Yang, Jun Li, Ryan Rossi, **Yu Wang**
+  <br> [[Paper]](https://arxiv.org/abs/2606.27539)
+
+- **Sparse Personalized Text Generation with Multi-Trajectory Reasoning**
+  <br> Arxiv 2026
+  <br> Bo Ni, Haowei Fu, Qinwen Ge, Franck Dernoncourt, Samyadeep Basu, Nedim Lipka, Seunghyun Yoon, **Yu Wang**, Nesreen K. Ahmed, Subhojyoti Mukherjee, Puneet Mathur, Ryan A. Rossi, Tyler Derr
+  <br> [[Paper]](https://arxiv.org/abs/2604.24996)
+
+- **Physics-Informed Deep Reinforcement Learning for Resilient and Congestion-Aware Transportation Network Recovery**
+  <br> SSRN 2026
+  <br> Amir Shahlaee, Xudong Fan, **Yu Wang**, Bo Zou, Jinzhu Yu
+  <br> [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6561872)
+
+- **Iterative Critique-Refine Framework for Enhancing LLM Personalization**
   <br> Arxiv 2025
-  <br> Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, **Yu Wang**
-  <br> [[Paper]](https://arxiv.org/abs/2602.09319)[[Code]](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)
+  <br> Durga Prasad Maram, Dhruvin Gandhi, Zonghai Yao, Gayathri Akkinapalli, Franck Dernoncourt, **Yu Wang**, Ryan A. Rossi, Nesreen K. Ahmed
+  <br> [[Paper]](https://arxiv.org/abs/2510.24469)
+
+- **A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations**
+  <br> Arxiv 2025
+  <br> Li Li, Peilin Cai, Ryan A. Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, Yuehan Qin, Nesreen K. Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, **Yu Wang**, Xiangliang Zhang, Philip S. Yu, Xiyang Hu, Yue Zhao
+  <br> [[Paper]](https://arxiv.org/abs/2505.14106)
+
+- **Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs**
+  <br> Arxiv 2025
+  <br> Yuying Zhao, **Yu Wang**, Xueqi Cheng, Anne Marie Tumlin, Yunchao Liu, Damin Xia, Meng Jiang, Tyler Derr
+  <br> [[Paper]](https://arxiv.org/abs/2505.01698)
+
+- **GRS-QA: Graph Reasoning-Structured Question Answering Dataset**
+  <br> Arxiv 2024
+  <br> Anish Pahilajani, Devasha Trivedi, Jincen Shuai, Khin S. Yone, Samyak Rajesh Jain, Namyong Park, Ryan A. Rossi, Nesreen K. Ahmed, Franck Dernoncourt, **Yu Wang**
+  <br> [[Paper]](https://arxiv.org/abs/2411.00369)
 
 - **Retrieval-augmented Generation with Graphs (GraphRAG)**
   <br> Arxiv 2025 [[Paper]]()[[Code]]()
   <br> **Yu Wang**, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang
-
-- **RAG vs. GraphRAG: A Systematic Evaluation and Key Insights**
-  <br> Arxiv 2025 [[Paper]]()[[Code]]()
-  <br> Haoyu Han, Harry Shomer, **Yu Wang**, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang
-
-- **Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling**
-  <br> bioRxiv 2023 
-  <br> Yunchao Liu, Rocco Moretti, **Yu Wang**, Bobby Bodenheimer, Tyler Derr, Jens Meiler
-  <br> [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153143/)
-
-- **A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures**
-  <br> Arxiv 2022 
-  <br> **Yu Wang**, Jin-Zhu Yu, Hiba Baroud
-  <br> [[Paper]](https://arxiv.org/abs/2211.15590)
