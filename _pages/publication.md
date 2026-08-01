@@ -48,6 +48,11 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 **Conference/Journal Papers**
 
+- **Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening**
+  <br> **[SDM 2026]** SIAM International Conference on Data Mining
+  <br> Xin Wang, **Yu Wang**, Yunchao Liu, Jens Meiler, Tyler Derr
+  <br> [[Paper]](https://arxiv.org/abs/2510.16306)
+
 - **Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework**
   <br> **[KDD 2026]** ACM SIGKDD Conference on Knowledge Discovery & Data Mining
   <br> Riya Ponraj, Ram Durairajan, **Yu Wang**
