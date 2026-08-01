@@ -4,7 +4,9 @@ title: "招生信息"
 permalink: /recruiting-cn/
 author_profile: true
 ---
-Yu Wang 将于 2026 年 8 月 1 日加入佐治亚大学（University of Georgia）[School of Computing](https://computing.uga.edu/) 和 [Institute for Artificial Intelligence](https://www.ai.uga.edu/)，担任助理教授。他正在招收对数据挖掘、机器学习、可信智能体 AI 等方向感兴趣的博士生，入学时间为 2027 年春季或 2027 年秋季。欢迎硕士生、本科生以及自费访问学生/学者联系。
+Yu Wang 现任佐治亚大学（University of Georgia）[School of Computing](https://computing.uga.edu/) 和 [Institute for Artificial Intelligence](https://www.ai.uga.edu/) 助理教授。他正在招收对数据挖掘、机器学习、可信智能体 AI 等方向感兴趣的博士生，入学时间为 2027 年春季或 2027 年秋季。欢迎硕士生、本科生以及自费访问学生/学者联系。
+
+可参考我的学生成果：[KIND Lab 成员页面](https://kindlab-fly.github.io/people/)。
 
 如果你感兴趣，请将 CV、成绩单以及一段简短的研究兴趣说明发送至 Yu.Wang6@uga.edu。
 
@@ -25,7 +27,7 @@ Yu Wang 将于 2026 年 8 月 1 日加入佐治亚大学（University of Georgia
 
 ### 佐治亚大学与 Athens
 ------
-佐治亚大学（UGA）成立于 1785 年，是位于 Georgia 州 Athens 的公立研究型大学。Yu 将加入 UGA 的 [School of Computing](https://computing.uga.edu/) 和 [Institute for Artificial Intelligence](https://www.ai.uga.edu/)。有意申请博士项目的同学请提前了解 School of Computing 的研究生申请要求和博士项目要求。
+佐治亚大学（UGA）成立于 1785 年，是位于 Georgia 州 Athens 的公立研究型大学。Yu 任职于 UGA 的 [School of Computing](https://computing.uga.edu/) 和 [Institute for Artificial Intelligence](https://www.ai.uga.edu/)。有意申请博士项目的同学请提前了解 School of Computing 的研究生申请要求和博士项目要求。
 
 请参考以下资源，了解 UGA、博士项目以及如何选择合适的导师。
 - <a href='https://computing.uga.edu/doctor-philosophy-computer-science' target="_blank">UGA Ph.D. in Computer Science</a>.

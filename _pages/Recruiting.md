@@ -4,7 +4,9 @@ title: "Recruiting"
 permalink: /recruiting/
 author_profile: true
 ---
-Yu Wang will join the [School of Computing](https://computing.uga.edu/) and the [Institute for Artificial Intelligence](https://www.ai.uga.edu/) at the University of Georgia as an Assistant Professor, starting August 1, 2026. He is recruiting Ph.D. students interested in data mining, machine learning, and trustworthy agentic AI for Spring 2027 and Fall 2027. Master's students, undergraduate students, and self-funded visiting students/scholars are also welcome to reach out.
+Yu Wang is an Assistant Professor in the [School of Computing](https://computing.uga.edu/) and the [Institute for Artificial Intelligence](https://www.ai.uga.edu/) at the University of Georgia. He is recruiting Ph.D. students interested in data mining, machine learning, and trustworthy agentic AI for Spring 2027 and Fall 2027. Master's students, undergraduate students, and self-funded visiting students/scholars are also welcome to reach out.
+
+For reference, please check my students' achievements on the [KIND Lab people page](https://kindlab-fly.github.io/people/).
 
 If you are interested, please email your CV, transcripts, and a brief description of your research interests to Yu.Wang6@uga.edu.
 
@@ -25,7 +27,7 @@ If you are interested, please email your CV, transcripts, and a brief descriptio
   
 ### University of Georgia and Athens
 ------
-The University of Georgia (UGA), founded in 1785, is a public research university in Athens, Georgia. Yu will join UGA's [School of Computing](https://computing.uga.edu/) and [Institute for Artificial Intelligence](https://www.ai.uga.edu/). Prospective Ph.D. students should review the School of Computing graduate admissions information and Ph.D. program requirements.
+The University of Georgia (UGA), founded in 1785, is a public research university in Athens, Georgia. Yu is affiliated with UGA's [School of Computing](https://computing.uga.edu/) and [Institute for Artificial Intelligence](https://www.ai.uga.edu/). Prospective Ph.D. students should review the School of Computing graduate admissions information and Ph.D. program requirements.
 
 Please review the following resources to learn more about UGA, the Ph.D. program, and how to choose the right advisor.
 - <a href='https://computing.uga.edu/doctor-philosophy-computer-science' target="_blank">UGA Ph.D. in Computer Science</a>.
