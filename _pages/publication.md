@@ -66,8 +66,16 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 - **A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures**
   <br> **[PRE 2026]** Physical Review E
-  <br> **Yu Wang**, Jin-Zhu Yu, Hiba Baroud
+  <br> MirSaleh Bahavarnia, **Yu Wang**, Jin-Zhu Yu, Hiba Baroud
   <br> [[Paper]](https://journals.aps.org/pre/accepted/10.1103/vswp-h4hx)
+
+- **Towards Explainable Benchmarking for Data-driven Post-Wildfire Debris Flow Prediction**
+  <br> **[ACM AI Leadership Summit 2026]** ACM AI Leadership Summit
+  <br> Zhisheng Qi, Li Zhu, Utkarsh Sahu, Douglas Tommey, Josh Roering, **Yu Wang**
+
+- **Personalized AutoResearch**
+  <br> **[ACM AI Leadership Summit 2026]** ACM AI Leadership Summit
+  <br> Bo Ni, Franck Dernoncourt, Hongjie Chen, **Yu Wang**, Nesreen Ahmed, Zhengzhong Tu, Tyler Derr, Ryan Rossi
 
 - **Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening**
   <br> **[SDM 2026]** SIAM International Conference on Data Mining

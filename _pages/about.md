@@ -36,8 +36,8 @@ News
 🐴 2026
 -----
 <ul>
-<li>[08] 📚 One paper accepted at AI Summit 2026: Explainable benchmark for post-wildfire debris flow prediction!</li>
-<li>[08] 📚 One paper accepted at AI Summit 2026: Personalized autoresearch!</li>
+<li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Explainable benchmark for post-wildfire debris flow prediction!</li>
+<li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Personalized AutoResearch!</li>
 <li>[07] 🎉 Thrilled to join UGA School of Computing (SoC) and Institute of AI (IAI)!</li>
 <li>[07] 📚 SDM 2026 paper acceptance on <a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XPCmiz4AAAAJ&sortby=pubdate&citation_for_view=XPCmiz4AAAAJ:_B80troHkn4C'>Scaffold-aware Generation for Molecular Virtual Screening</a>, see you in Salt Lake City!</li>
 <li>[07] 🎉 Riya has been awarded Student Travel Award to attend KDD 2026!</li>
