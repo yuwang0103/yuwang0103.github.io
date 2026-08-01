@@ -6,7 +6,7 @@ author_profile: true
 ---
 Yu Wang 将于 2026 年 8 月 1 日加入佐治亚大学（University of Georgia）[School of Computing](https://computing.uga.edu/) 和 [Institute for Artificial Intelligence](https://www.ai.uga.edu/)，担任助理教授。他正在招收对数据挖掘、机器学习、可信智能体 AI 等方向感兴趣的博士生，入学时间为 2027 年春季或 2027 年秋季。欢迎硕士生、本科生以及自费访问学生/学者联系。
 
-如果你感兴趣，请将 CV、成绩单以及一段简短的研究兴趣说明发送至 yw20254@uga.edu。
+如果你感兴趣，请将 CV、成绩单以及一段简短的研究兴趣说明发送至 Yu.Wang6@uga.edu。
 
 
 ### 研究方向:
@@ -16,7 +16,7 @@ Yu Wang 将于 2026 年 8 月 1 日加入佐治亚大学（University of Georgia
 - Neural-Symbolic Learning
 - Agentic AI for Structured Reasoning and Decision-Making
 - Structured Processing for Trustworthy Agentic AI
-- <span style="color:red">System &amp; Algorithm Co-Design for Efficient and Reliable Agentic System</span>
+- <span style="color:black">System &amp; Algorithm Co-Design for Efficient and Reliable Agentic System</span>
 
 **Application:**
 - Infrastructure System
@@ -35,7 +35,7 @@ Yu Wang 将于 2026 年 8 月 1 日加入佐治亚大学（University of Georgia
 
 ### 基本信息:
 ------
-- 联系方式: yw20254@uga.edu
+- 联系方式: Yu.Wang6@uga.edu
 - [申请要求](https://computing.uga.edu/doctor-philosophy-computer-science): CSCI 研究生项目 GRE optional
 - [研究生申请信息](https://computing.uga.edu/graduate-admissions)
 
