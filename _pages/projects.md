@@ -18,7 +18,9 @@ author_profile: true
       <h2 style="margin-top: 0; margin-bottom: 0.45rem; font-size: 1.35rem;">
         <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Agentic Reasoning and Decision-making for Structured Drug Design</a>
       </h2>
-      <p style="margin-bottom: 0.8rem;">An agentic drug-discovery demo that reasons over molecular graphs, structural signals, and design constraints to support candidate generation, evaluation, and iterative refinement.</p>
+      <p style="margin-bottom: 0.35rem;"><strong>Faculty:</strong> Yu Wang, Eugene Douglass</p>
+      <p style="margin-bottom: 0.8rem;"><strong>Student:</strong> Zhisheng Qi</p>
+      <p style="margin-bottom: 0.8rem;">An agentic drug-design demo that supports scaffold specification, scaffold sketching, and multi-constrained molecular property targets. Conditioned on these inputs, the system generates candidate molecules with calculated property feedback and supports multi-step comparison, critique, and refinement.</p>
       <p style="margin-bottom: 0;">
         <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Project page</a> |
         <a href="https://drug-design.graphagentintelligence.com/" target="_blank" rel="noopener noreferrer">Live demo</a>
