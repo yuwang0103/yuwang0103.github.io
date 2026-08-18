@@ -36,8 +36,8 @@ News
 🐴 2026
 -----
 <ul>
-<li><span style="color:red"><b>[08] 🧪 Released demo: <a href='https://drug-design.graphagentintelligence.com/' style="color:red">Agentic Reasoning for Drug Discovery</a>!</b></span></li>
-<li><span style="color:red"><b>[08] 🧠 Released demo: <a href='https://graph-agent.graphagentintelligence.com/' style="color:red">Agentic Reasoning for Structured Knowledge Retrieval</a>!</b></span></li>
+<li><span style="color:red"><b>[08] 🧪 Released demo: <a href='https://drug-design.graphagentintelligence.com/' style="color:red">Agentic Reasoning and Decision-making for Structured Drug Design</a>!</b></span></li>
+<li><span style="color:red"><b>[08] 🧠 Released demo: <a href='https://graph-agent.graphagentintelligence.com/' style="color:red">Agentic Reasoning and Decision-making for Structured Knowledge Retrieval</a>!</b></span></li>
 <li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Explainable benchmark for post-wildfire debris flow prediction!</li>
 <li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Personalized AutoResearch!</li>
 <li>[07] 🎉 Thrilled to join UGA School of Computing (SoC) and Institute of AI (IAI)!</li>

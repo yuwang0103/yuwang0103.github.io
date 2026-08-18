@@ -16,7 +16,7 @@ author_profile: true
     </a>
     <div style="padding: 1rem 1.1rem 1.15rem;">
       <h2 style="margin-top: 0; margin-bottom: 0.45rem; font-size: 1.35rem;">
-        <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Agentic Reasoning for Structured Drug Design</a>
+        <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Agentic Reasoning and Decision-making for Structured Drug Design</a>
       </h2>
       <p style="margin-bottom: 0.8rem;">An agentic drug-discovery demo that reasons over molecular graphs, structural signals, and design constraints to support candidate generation, evaluation, and iterative refinement.</p>
       <p style="margin-bottom: 0;">
@@ -32,7 +32,7 @@ author_profile: true
     </a>
     <div style="padding: 1rem 1.1rem 1.15rem;">
       <h2 style="margin-top: 0; margin-bottom: 0.45rem; font-size: 1.35rem;">
-        <a href="https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/" target="_blank" rel="noopener noreferrer">Agentic Reasoning for Structured Knowledge Retrieval</a>
+        <a href="https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/" target="_blank" rel="noopener noreferrer">Agentic Reasoning and Decision-making for Structured Knowledge Retrieval</a>
       </h2>
       <p style="margin-bottom: 0.8rem;">An agentic structured-knowledge demo that retrieves, traverses, and verifies evidence across graphs, documents, tables, and knowledge bases for more grounded RAG.</p>
       <p style="margin-bottom: 0;">
