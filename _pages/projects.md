@@ -89,6 +89,8 @@ author_profile: true
       <h2>
         <a href="https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/" target="_blank" rel="noopener noreferrer">Agentic Intelligence for Structured Knowledge Retrieval</a>
       </h2>
+      <p><strong>Faculty:</strong> Yu Wang</p>
+      <p><strong>Students:</strong> Zhisheng Qi, Yongjia Lei, Utkarsh Sahu</p>
       <p>An agentic structured-knowledge demo that retrieves, traverses, and verifies evidence across graphs, documents, tables, and knowledge bases for more grounded RAG.</p>
       <p class="project-links">
         <a href="https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/" target="_blank" rel="noopener noreferrer">Project page</a> |
