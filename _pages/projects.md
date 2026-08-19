@@ -71,8 +71,6 @@ author_profile: true
       <h2>
         <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Agentic Intelligence for Structured Drug Design</a>
       </h2>
-      <p><strong>Faculty:</strong> Yu Wang, Eugene Douglass</p>
-      <p><strong>Student:</strong> Zhisheng Qi</p>
       <p>An agentic drug-design demo that supports scaffold specification, scaffold sketching, and multi-constrained molecular property targets. Conditioned on these inputs, the system generates candidate molecules with calculated property feedback and supports multi-step comparison, critique, and refinement.</p>
       <p class="project-links">
         <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Project page</a> |
