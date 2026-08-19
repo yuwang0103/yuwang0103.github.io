@@ -254,10 +254,16 @@
 
 .author__visitor-map-widget {
   display: block;
-  width: 160px;
+  width: 80px;
   max-width: 100%;
-  min-height: 38px;
+  height: 58px;
+  min-height: 58px;
   overflow: hidden;
+
+  #mapmyvisitors-widget {
+    width: 80px !important;
+    min-height: 58px !important;
+  }
 
   img,
   canvas,
