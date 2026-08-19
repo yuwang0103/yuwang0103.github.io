@@ -63,7 +63,7 @@ author_profile: true
 </style>
 
 <div class="project-list">
-  <article class="project-card">
+  <article class="project-card" id="agentic-structured-drug-design">
     <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">
       <img src="/images/projects/agentic-drug-design.png" alt="Concept figure for agentic intelligence in structured drug design">
     </a>
@@ -79,7 +79,7 @@ author_profile: true
     </div>
   </article>
 
-  <article class="project-card">
+  <article class="project-card" id="agentic-structured-knowledge-retrieval">
     <a href="https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/" target="_blank" rel="noopener noreferrer">
       <img src="/images/projects/agentic-structured-knowledge-retrieval.png" alt="Concept figure for agentic intelligence in structured knowledge retrieval">
     </a>
