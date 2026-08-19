@@ -235,3 +235,34 @@
     }
   }
 }
+
+.author__visitor-map {
+  display: block;
+  margin-top: 10px;
+  white-space: normal !important;
+}
+
+.author__visitor-map-label {
+  display: block;
+  margin-bottom: 4px;
+  color: mix(#000, $gray, 20%);
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-7;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.author__visitor-map-widget {
+  display: block;
+  width: 160px;
+  max-width: 100%;
+  min-height: 38px;
+  overflow: hidden;
+
+  img,
+  canvas,
+  svg,
+  iframe {
+    max-width: 100%;
+  }
+}

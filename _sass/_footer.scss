@@ -58,57 +58,6 @@
   font-size: $type-size-7;
 }
 
-.page__footer-custom {
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-  gap: 1em;
-  margin-bottom: 1em;
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-7;
-  text-transform: uppercase;
-}
-
-.footer-visitor-map {
-  margin-left: auto;
-  text-align: right;
-}
-
-.footer-visitor-map__label {
-  display: block;
-  margin-bottom: 0.25em;
-  color: mix(#fff, $gray, 25%);
-  font-weight: bold;
-}
-
-.footer-visitor-map__widget {
-  display: inline-block;
-  width: 170px;
-  max-width: 42vw;
-  min-height: 40px;
-  overflow: hidden;
-  vertical-align: bottom;
-
-  img,
-  canvas,
-  svg,
-  iframe {
-    max-width: 100%;
-  }
-}
-
-@include breakpoint(max-width $small) {
-  .page__footer-custom {
-    align-items: flex-start;
-    flex-direction: column;
-  }
-
-  .footer-visitor-map {
-    margin-left: 0;
-    text-align: left;
-  }
-}
-
 .page__footer-follow {
   ul {
     margin: 0;
