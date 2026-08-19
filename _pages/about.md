@@ -13,7 +13,7 @@ Yu Wang is an Assistant Professor in the [School of Computing](https://computing
 
 📢📢📢 <span style="color:red"><b><a href="/recruiting/" style="color:red">Recruiting Ph.D. students and interns!</a> | <a href="/recruiting-cn/" style="color:red">Recruiting post 2</a></b></span> I am actively seeking highly motivated Ph.D. students for Spring 2027 and Fall 2027, as well as research interns, master's students, undergraduate students, and visiting students/scholars. Please feel free to email me your CV, transcripts, and a brief description about why you want to work with me if you are interested!
 
-UGA is a leading public research university, ranked <a href="https://news.uga.edu/a-decade-in-the-top-20/" style="color:red">#19 among U.S. public universities</a> (U.S. News 2026), <a href="https://www.niche.com/colleges/university-of-georgia/rankings/" style="color:red">#10</a> (Niche 2026), <a href="https://news.uga.edu/uga-earns-high-marks-in-latest-forbes-and-niche-rankings/" style="color:red">#18</a> (Forbes 2026), and <a href="https://www.princetonreview.com/college/university-georgia-1023767" style="color:red">#12 Best Value Public School</a> (The Princeton Review 2025).
+UGA is a leading public research university, ranked <a href="https://news.uga.edu/a-decade-in-the-top-20/">#19 among U.S. public universities</a> (U.S. News 2026), <a href="https://www.niche.com/colleges/university-of-georgia/rankings/">#10</a> (Niche 2026), <a href="https://news.uga.edu/uga-earns-high-marks-in-latest-forbes-and-niche-rankings/">#18</a> (Forbes 2026), and <a href="https://www.princetonreview.com/college/university-georgia-1023767">#12 Best Value Public School</a> (The Princeton Review 2025).
 
 Research Interests:
 ------
