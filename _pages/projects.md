@@ -71,7 +71,7 @@ author_profile: true
       <h2>
         <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Agentic Intelligence for Structured Drug Design</a>
       </h2>
-      <p>An agentic drug-design demo that supports scaffold specification, scaffold sketching, and multi-constrained molecular property targets. Conditioned on these inputs, the system generates candidate molecules with calculated property feedback and supports multi-step comparison, critique, and refinement.</p>
+      <p>An agentic drug-design demo for exploring structured, interactive molecular design. The system lets users specify high-level design goals, review candidate molecules, and refine alternatives through feedback.</p>
       <p class="project-links">
         <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Project page</a> |
         <a href="https://drug-design.graphagentintelligence.com/" target="_blank" rel="noopener noreferrer">Live demo</a>
@@ -89,7 +89,7 @@ author_profile: true
       </h2>
       <p><strong>Faculty:</strong> Yu Wang</p>
       <p><strong>Students:</strong> Zhisheng Qi, Yongjia Lei, Utkarsh Sahu</p>
-      <p>An agentic structured-knowledge demo that retrieves, traverses, and verifies evidence across graphs, documents, tables, and knowledge bases for more grounded RAG.</p>
+      <p>An agentic structured-knowledge demo for exploring evidence-guided retrieval and more grounded AI-assisted reasoning.</p>
       <p class="project-links">
         <a href="https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/" target="_blank" rel="noopener noreferrer">Project page</a> |
         <a href="https://graph-agent.graphagentintelligence.com/" target="_blank" rel="noopener noreferrer">Live demo</a>
