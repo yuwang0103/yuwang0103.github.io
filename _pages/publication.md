@@ -53,6 +53,11 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, **Yu Wang**, Shuiwang Ji, Jianwen Xie, Yu Zhang
   <br> [[Paper]](https://aclanthology.org/2026.acl-long.1477/)
 
+- **Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG**
+  <br> **[EMNLP 2026]** Empirical Methods in Natural Language Processing
+  <br> Kai Guo, Xinnan Dai, Shenglai Zeng, Harry Shomer, Haoyu Han, **Yu Wang**, Jiliang Tang
+  <br> [[Paper]](https://arxiv.org/abs/2509.25530)
+
 - **Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation**
   <br> **[KDD 2026]** ACM SIGKDD Conference on Knowledge Discovery & Data Mining, Dataset and Benchmark Track
   <br><span style="color:red">**Oral Presentation (4.5%)**</span>

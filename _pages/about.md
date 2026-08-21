@@ -36,6 +36,7 @@ News
 🐴 2026
 -----
 <ul>
+<li>[08] 📚 Our paper <a href='https://arxiv.org/abs/2509.25530'>Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG</a> accepted at EMNLP'26!</li>
 <li><span style="color:red"><b>[08] 🧪 Released demo: <a href='https://kindlab-fly.github.io/projects/agentic-structured-drug-design/' style="color:red">Agentic Intelligence for Structured Drug Design</a>!</b></span></li>
 <li><span style="color:red"><b>[08] 🧠 Released demo: <a href='https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/' style="color:red">Agentic Intelligence for Structured Knowledge Retrieval</a>!</b></span></li>
 <li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Explainable benchmark for post-wildfire debris flow prediction!</li>
