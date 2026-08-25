@@ -18,18 +18,18 @@ author_profile: true
 
   .project-card {
     display: grid;
-    grid-template-columns: 230px minmax(0, 1fr);
-    gap: 1rem;
+    grid-template-columns: minmax(220px, 285px) minmax(0, 1fr);
+    gap: 1.1rem;
     align-items: start;
     padding-bottom: 1.15rem;
     border-bottom: 1px solid #e5e7eb;
   }
 
   .project-card img {
-    width: 230px;
-    height: 130px;
+    width: 100%;
+    height: auto;
     display: block;
-    object-fit: cover;
+    object-fit: contain;
     border: 1px solid #e5e7eb;
     border-radius: 6px;
   }
@@ -90,7 +90,6 @@ author_profile: true
       <p><strong>Faculty:</strong> Yu Wang</p>
       <p><strong>Students:</strong> Zhisheng Qi, Yongjia Lei, Utkarsh Sahu</p>
       <p>An agentic structured-knowledge demo for exploring evidence-guided retrieval and more grounded AI-assisted reasoning.</p>
-      <p><strong>Recent paper:</strong> <a href="https://arxiv.org/abs/2509.25530" target="_blank" rel="noopener noreferrer">Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG</a></p>
       <p class="project-links">
         <a href="https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/" target="_blank" rel="noopener noreferrer">Project page</a> |
         <a href="https://graph-agent.graphagentintelligence.com/" target="_blank" rel="noopener noreferrer">Live demo</a>
