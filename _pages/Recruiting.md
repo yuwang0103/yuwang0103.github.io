@@ -4,7 +4,7 @@ title: "Recruiting"
 permalink: /recruiting/
 author_profile: true
 ---
-Yu Wang is an Assistant Professor in the [School of Computing](https://computing.uga.edu/) and the [Institute for Artificial Intelligence](https://www.ai.uga.edu/) at the University of Georgia. He is recruiting Ph.D. students interested in data mining, machine learning, and trustworthy agentic AI for Spring 2027 and Fall 2027. Master's students, undergraduate students, and self-funded visiting students/scholars are also welcome to reach out.
+Yu Wang is an Assistant Professor in the [School of Computing](https://computing.uga.edu/) and the [Institute for Artificial Intelligence](https://www.ai.uga.edu/) at the University of Georgia. He is recruiting Ph.D. students interested in data mining, machine learning, and trustworthy agentic AI for Spring 2027 and Fall 2027.
 
 <span style="color:red"><b>For reference, please check my students' achievements on the <a href="https://kindlab-fly.github.io/people/" style="color:red">KIND Lab people page</a>.</b></span>
 

@@ -4,7 +4,7 @@ title: "招生信息"
 permalink: /recruiting-cn/
 author_profile: true
 ---
-Yu Wang 现任佐治亚大学（University of Georgia）[School of Computing](https://computing.uga.edu/) 和 [Institute for Artificial Intelligence](https://www.ai.uga.edu/) 助理教授。他正在招收对数据挖掘、机器学习、可信智能体 AI 等方向感兴趣的博士生，入学时间为 2027 年春季或 2027 年秋季。欢迎硕士生、本科生以及自费访问学生/学者联系。
+Yu Wang 现任佐治亚大学（University of Georgia）[School of Computing](https://computing.uga.edu/) 和 [Institute for Artificial Intelligence](https://www.ai.uga.edu/) 助理教授。他正在招收对数据挖掘、机器学习、可信智能体 AI 等方向感兴趣的博士生，入学时间为 2027 年春季或 2027 年秋季。
 
 可参考我的学生成果：[KIND Lab 成员页面](https://kindlab-fly.github.io/people/)。
 
