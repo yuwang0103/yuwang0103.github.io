@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="projects-intro" style="margin-bottom: 1.25rem;">
-  <p>Selected project demos and research systems from KIND Lab.</p>
+  <p>Selected research systems from KIND Lab.</p>
 </div>
 
 <style>
@@ -71,10 +71,9 @@ author_profile: true
       <h2>
         <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Agentic Intelligence for Structured Drug Design</a>
       </h2>
-      <p>An agentic drug-design demo for exploring structured, interactive molecular design. The system lets users specify high-level design goals, review candidate molecules, and refine alternatives through feedback.</p>
+      <p>A research project on agentic intelligence for structured, interactive molecular design. The system studies how users can specify high-level design goals, review candidate molecules, and refine alternatives through feedback.</p>
       <p class="project-links">
-        <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Project page</a> |
-        <a href="https://drug-design.graphagentintelligence.com/" target="_blank" rel="noopener noreferrer">Live demo</a>
+        <a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/" target="_blank" rel="noopener noreferrer">Project page</a>
       </p>
     </div>
   </article>
@@ -89,10 +88,9 @@ author_profile: true
       </h2>
       <p><strong>Faculty:</strong> Yu Wang</p>
       <p><strong>Students:</strong> Zhisheng Qi, Yongjia Lei, Utkarsh Sahu</p>
-      <p>An agentic structured-knowledge demo for exploring evidence-guided retrieval and more grounded AI-assisted reasoning.</p>
+      <p>A research project on agentic structured-knowledge retrieval for exploring evidence-guided retrieval and more grounded AI-assisted reasoning.</p>
       <p class="project-links">
-        <a href="https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/" target="_blank" rel="noopener noreferrer">Project page</a> |
-        <a href="https://graph-agent.graphagentintelligence.com/" target="_blank" rel="noopener noreferrer">Live demo</a>
+        <a href="https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/" target="_blank" rel="noopener noreferrer">Project page</a>
       </p>
     </div>
   </article>
