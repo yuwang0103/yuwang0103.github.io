@@ -48,6 +48,10 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 **Conference/Journal Papers**
 
+- **Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing**
+  <br> **[MediAsia 2026]** The Asian Conference on Media, Communication & Film
+  <br> Amelie Wei, **Yu Wang**
+
 - **ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents**
   <br> **[ACL 2026]** Annual Meeting of the Association for Computational Linguistics
   <br> Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, **Yu Wang**, Shuiwang Ji, Jianwen Xie, Yu Zhang
