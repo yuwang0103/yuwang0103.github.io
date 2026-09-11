@@ -36,8 +36,7 @@ News
 🐴 2026
 -----
 <ul>
-<li>[09] 🎉 Welcome high-school student <a href='https://www.linkedin.com/in/ameliewei'>Amelie Wei</a> to KIND Lab!</li>
-<li>[09] 📚 Our work with Amelie Wei, <a href='https://mediasia.iafor.org/'>Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing</a>, has been accepted for presentation at MediAsia2026!</li>
+<li>[09] 📚 Our work with high-school student <a href='https://www.linkedin.com/in/ameliewei'>Amelie Wei</a>, <a href='https://mediasia.iafor.org/'>Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing</a>, has been accepted for presentation at MediAsia2026!</li>
 <li>[08] 📚 Our paper <a href='https://arxiv.org/abs/2509.25530'>Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG</a> accepted at EMNLP'26!</li>
 <li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Explainable benchmark for post-wildfire debris flow prediction!</li>
 <li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Personalized AutoResearch!</li>
