@@ -4,7 +4,7 @@ title: "Publication"
 permalink: /publication/
 author_profile: true
 ---
-Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.pdf#nameddest=PUBLICATIONS)
+[Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en): **3,379 citations**, **h-index 26**, **i10-index 38** (September 11, 2026).
 
 **Workshops**
 - **Machine Learning on Graphs in the Era of Generative Artificial Intelligence**
@@ -19,10 +19,10 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 
 **Tutorials**
-- **Rigorizing Retrieval-augmented Generation with Structural Intelligence**
+- **Rigorizing Retrieval-augmented Generation with Structured Knowledge**
   <br> **[WSDM 2026]** ACM International Conference on Web Search and Data Mining
-  <br> Zhisheng Qi, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, Yu Zhang, Ryan Rossi, Hui Liu, **Yu Wang**
-  <br> [[Website]](https://kindlab-fly.github.io/tutorials/WSDM26/)
+  <br> Zhisheng Qi, Utkarsh Sahu, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, Yu Zhang, Ryan Rossi, Hui Liu, **Yu Wang**
+  <br> [[Website]](https://kindlab-fly.github.io/tutorials/wsdm26/)
 
 - **Empowering Retrieval-augmented Generation with Graph-structured Knowledge**
   <br> **[SDM 2025]** SIAM International Conference on Data Mining
@@ -47,10 +47,6 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 
 **Conference/Journal Papers**
-
-- **Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing**
-  <br> **[MediAsia 2026]** The Asian Conference on Media, Communication & Film
-  <br> Amelie Wei, **Yu Wang**
 
 - **ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents**
   <br> **[ACL 2026]** Annual Meeting of the Association for Computational Linguistics
@@ -78,14 +74,6 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> MirSaleh Bahavarnia, **Yu Wang**, Jin-Zhu Yu, Hiba Baroud
   <br> [[Paper]](https://journals.aps.org/pre/accepted/10.1103/vswp-h4hx)
 
-- **Towards Explainable Benchmarking for Data-driven Post-Wildfire Debris Flow Prediction**
-  <br> **[ACM AI Leadership Summit 2026]** ACM AI Leadership Summit
-  <br> Zhisheng Qi, Li Zhu, Utkarsh Sahu, Douglas Tommey, Josh Roering, **Yu Wang**
-
-- **Personalized AutoResearch**
-  <br> **[ACM AI Leadership Summit 2026]** ACM AI Leadership Summit
-  <br> Bo Ni, Franck Dernoncourt, Hongjie Chen, **Yu Wang**, Nesreen Ahmed, Zhengzhong Tu, Tyler Derr, Ryan Rossi
-
 - **Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening**
   <br> **[SDM 2026]** SIAM International Conference on Data Mining
   <br> Xin Wang, **Yu Wang**, Yunchao Liu, Jens Meiler, Tyler Derr
@@ -99,7 +87,6 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **Rule Mining and Learning for Structured Knowledge Retrieval**
   <br> **[WSDM 2026]** ACM International Conference on Web Search and Data Mining
   <br> Yongjia Lei, Mahantesh M Halappanavar, **Yu Wang**
-  <br> [[Paper]]()[[Code]]()
 
 - **Knowledge Homophily in Large Language Models**
   <br> **[WSDM 2026]** ACM International Conference on Web Search and Data Mining
@@ -112,12 +99,12 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> [[Paper]](https://arxiv.org/abs/2502.06872)[[Code]](https://github.com/Arstanley/Awesome-Trustworthy-RAG)
 
 - **GUI Agents: A Survey**
-  <br> **[ACL 2025 Findings]** Annual Meeting of the Association for Computational Linguistics
+  <br> **[ACL 2025 Findings]** Findings of the Association for Computational Linguistics: ACL 2025
   <br> Dang Nguyen, Jian Chen, **Yu Wang**, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Jihyung Kil, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt
   <br> [[Paper]](https://aclanthology.org/2025.findings-acl.1158/)
 
 - **Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases**
-  <br> **[ACL 2025]** Annual Meeting of the Association for Computational Linguistics
+  <br> **[ACL 2025 Findings]** Findings of the Association for Computational Linguistics: ACL 2025
   <br> Yongjia Lei, Haoyu Han, Ryan A Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M Halappanavar, Jiliang Tang, **Yu Wang**
   <br><span style="color:red">**Best Poster Honorable Mention at SDM'25 Doctoral Forum**</span>
   <br> [[Paper]](https://aclanthology.org/2025.findings-acl.941/)[[Code]](https://github.com/Yoega/MoR)
@@ -145,20 +132,22 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs**
   <br> **[WWW 2026]** In Proceedings of the ACM Web Conference
   <br> Haoyu Han, Kai Guo, Harry Shomer, **Yu Wang**, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang
+  <br> [[Paper]](https://arxiv.org/abs/2510.07484)
 
-- **Large Language Models for Conversational User Simulation: A Comprehensive Survey**
-  <br> **[EACL 2026]** Conference of European Chapter of Association for Computational Linguistics
-  <br> Bo Ni, Leyao Wang, **Yu Wang**, Yuying Zhao, Tyler Derr, Ryan A. Rossi
-  <br> [[Paper]](http://ryanrossi.com/pubs/LLM-based_User_Simulated_Data_Generation_Survey.pdf)
+- **A Survey on LLM-based Conversational User Simulation**
+  <br> **[EACL 2026]** Conference of the European Chapter of the Association for Computational Linguistics
+  <br> Bo Ni, **Yu Wang**, Leyao Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Luera, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen K. Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A. Rossi
+  <br> [[Paper]](https://aclanthology.org/2026.eacl-long.200/)
 
 - **From Selection to Generation: A Survey of LLM-based Active Learning**
   <br> **[ACL 2025]** Annual Meeting of the Association for Computational Linguistics
   <br> Yu Xia, Subhojyoti Mukherjee, Zhouhang Xie, Junda Wu, Xintong Li, Ryan Aponte, Hanjia Lyu, Joe Barrow, Hongjie Chen, Franck Dernoncourt, Branislav Kveton, Tong Yu, Ruiyi Zhang, Jiuxiang Gu, Nesreen K. Ahmed, **Yu Wang**, Xiang Chen, Hanieh Deilamsalehy, Sungchul Kim, Zhengmian Hu, Yue Zhao, Nedim Lipka, Seunghyun Yoon, Ting-Hao Kenneth Huang, Zichao Wang, Puneet Mathur, Soumyabrata Pal, Koyel Mukherjee, Zhehao Zhang, Namyong Park, Thien Huu Nguyen, Jiebo Luo, Ryan A. Rossi, Julian McAuley
+  <br> [[Paper]](https://aclanthology.org/2025.acl-long.708/)
 
-- **Demystifying the Power of LLMs in Graph Generation**
-  <br> **[NAACL 2025]** Nations of Americans Chapter of Association for Computational Linguistics
-  <br> **Yu Wang**, Ryan A Rossi, Namyong Park, Nesreen K Ahmed, Danai Koutra, Franck Dernoncourt, Tyler Derr
-  <br> [[Paper]](https://aclanthology.org/2025.findings-naacl.456/)[[Code]]()
+- **Demystifying the Power of Large Language Models in Graph Generation**
+  <br> **[NAACL 2025 Findings]** Findings of the Association for Computational Linguistics: NAACL 2025
+  <br> **Yu Wang**, Ryan A. Rossi, Namyong Park, Nesreen K. Ahmed, Danai Koutra, Franck Dernoncourt, Tyler Derr
+  <br> [[Paper]](https://aclanthology.org/2025.findings-naacl.456/)[[Code]](https://github.com/yuwvandy/LLM-GraphGen)
 
 - **Large Graph Generative Models**
   <br> **[ICLR 2025]** International Conference on Learning Representation
@@ -176,7 +165,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> [[Paper]](https://aclanthology.org/2025.emnlp-main.1293/)
 
 - **DynaSaur: Large Language Agents Beyond Predefined Actions**
-  <br> **[COLM 2025]** Second Conference on Language Modeling
+  <br> **[COLM 2025]** Conference on Language Modeling
   <br> Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, Ryan A. Rossi, Handong Zhao, Ruiyi Zhang, Puneet Mathur, Nedim Lipka, **Yu Wang**, Trung Bui, Franck Dernoncourt, Tianyi Zhou
   <br> [[Paper]](https://openreview.net/forum?id=lv0cJ2pWVd)[[Code]](https://github.com/adobe-research/dynasaur)
 
@@ -188,7 +177,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**
   <br> **[AAAI 2025]** AAAI Conference on Artificial Intelligence
   <br> Bo Ni, **Yu Wang**, Lu Cheng, Erik Blasch, Tyler Derr
-  <br> [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33353)[[Code]]()
+  <br> [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33353)[[Code]](https://github.com/Arstanley/UAG)
 
 - **Edges Matter: Analyzing Graph Time-Series Representations for Temporal Networks**
   <br> **[TNSE 2025]** IEEE Transactions on Network Science and Engineering
@@ -198,6 +187,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **Advancements in Ligand-Based Virtual Screening through the Synergistic Integration of Graph Neural Networks and Expert-Crafted Descriptors**
   <br> **[JCIM 2025]** Journal of Chemical Information and Modeling
   <br> Yunchao Liu, Rocco Moretti, **Yu Wang**, Ha Dong, Bobby Bodenheimer, Tyler Derr, Jens Meiler
+  <br> [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c00822)
 
 - **Topology-Aware Retrieval Augmentation for Text Generation**
   <br> **[CIKM 2024]** ACM International Conference on Information and Knowledge Management
@@ -300,10 +290,12 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 - **Generating Synthetic Systems of Interdependent Critical Infrastructure Networks**
   <br> IEEE Systems Journal 2021
   <br> **Yu Wang**, Jin-Zhu Yu, Hiba Baroud
+  <br> [[Paper]](https://ieeexplore.ieee.org/document/9662448)
 
 - **Comparing Topology-Based and Flow-Based Resilience Assessment of Interdependent Infrastructure Networks**
   <br> **[ICOSSAR 2022]** 13th International Conference on Structural Safety and Reliability
   <br> Jinzhu Yu, **Yu Wang**, Hiba Baroud
+  <br> [[Manuscript]](https://par.nsf.gov/servlets/purl/10418129)
 
 - **Quantifying the Interdependency Strength Across Critical Infrastructure Systems Using a Dynamic Network Flow Redistribution Model**
   <br> **[ESRC 2020]** Proceedings of the 30th European Safety and Reliability Conference
@@ -320,6 +312,21 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> Qingfei Gao, **Yu Wang**, Jun Li, Kejian Sheng, Chenguang Liu
 
 
+
+**Other Conference Contributions**
+
+- **Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing**
+  <br> **[MediAsia 2026]** The Asian Conference on Media, Communication & Film
+  <br> Amelie Wei (high-school student), **Yu Wang**
+  <br> Accepted for presentation following abstract peer review. [[Conference]](https://mediasia.iafor.org/)
+
+- **Towards Explainable Benchmarking for Data-driven Post-Wildfire Debris Flow Prediction**
+  <br> **[ACM AI Leadership Summit 2026]** ACM AI Leadership Summit
+  <br> Zhisheng Qi, Li Zhu, Utkarsh Sahu, Douglas Tommey, Josh Roering, **Yu Wang**
+
+- **Personalized AutoResearch**
+  <br> **[ACM AI Leadership Summit 2026]** ACM AI Leadership Summit
+  <br> Bo Ni, Franck Dernoncourt, Hongjie Chen, **Yu Wang**, Nesreen Ahmed, Zhengzhong Tu, Tyler Derr, Ryan Rossi
 
 **Workshop Papers**
 - **Building Trust in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework**
@@ -369,7 +376,7 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
 
 - **RL-Index: Reinforcement Learning for Retrieval Index Reasoning**
   <br> Arxiv 2026
-  <br> Yongjia Lei, Nedim Lipka, Zhisheng Qi, Utkarsh Sahu, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi, **Yu Wang**
+  <br> Yongjia Lei, Nedim Lipka, Zhisheng Qi, Utkarsh Sahu, Yuchen Zhuang, Wenqi Shi, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi, **Yu Wang**
   <br> [[Paper]](https://arxiv.org/abs/2606.16316)
 
 - **Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction**
@@ -408,5 +415,5 @@ Most up-to-date publications are [here](https://yuwang0103.github.io/_pages/CV.p
   <br> [[Paper]](https://arxiv.org/abs/2411.00369)
 
 - **Retrieval-augmented Generation with Graphs (GraphRAG)**
-  <br> Arxiv 2025 [[Paper]]()[[Code]]()
+  <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.00309)[[Paper List]](https://github.com/Graph-RAG/GraphRAG/)
   <br> **Yu Wang**, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang
