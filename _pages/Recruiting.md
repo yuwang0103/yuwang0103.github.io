@@ -21,8 +21,8 @@ If you are interested, please email your CV, transcripts, and a brief descriptio
 - <span style="color:black">System &amp; Algorithm Co-Design for Efficient and Reliable Agentic System</span>
 
 **Application:**
-- Agentic Intelligence with Biomedicine Structured Knowledge
-- Agentic Intelligence with Social-Personal Structured Knowledge
+- Education
+- Biomedicine
   
 ### University of Georgia and Athens
 ------

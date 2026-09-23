@@ -15,5 +15,5 @@ author_profile: true
 - Structured Processing for Trustworthy Agentic AI
 
 **Applications**
-- Agentic Intelligence with Biomedicine Structured Knowledge
-- Agentic Intelligence with Social-Personal Structured Knowledge
+- Education
+- Biomedicine

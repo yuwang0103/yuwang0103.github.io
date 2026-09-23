@@ -24,8 +24,8 @@ Research Interests:
 - Structured Processing for Trustworthy Agentic AI
 
 **Application:**
-- Agentic Intelligence with Biomedicine Structured Knowledge
-- Agentic Intelligence with Social-Personal Structured Knowledge
+- Education
+- Biomedicine
 
 Email: Yu.Wang6@uga.edu. Find me on [Github](https://github.com/yuwvandy), [Twitter](https://twitter.com/yuwang0103), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
