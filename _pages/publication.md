@@ -48,6 +48,11 @@ author_profile: true
 
 **Conference/Journal Papers**
 
+- **Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction**
+  <br> **[NeurIPS 2026 E&D]** Conference on Neural Information Processing Systems, Evaluations & Datasets Track
+  <br> Utkarsh Sahu, Zhisheng Qi, Li Zhu, Yizhao Yang, Jun Li, Ryan Rossi, **Yu Wang**
+  <br> [[Paper]](https://arxiv.org/abs/2606.27539)
+
 - **ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents**
   <br> **[ACL 2026]** Annual Meeting of the Association for Computational Linguistics
   <br> Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, **Yu Wang**, Shuiwang Ji, Jianwen Xie, Yu Zhang
@@ -378,11 +383,6 @@ author_profile: true
   <br> Arxiv 2026
   <br> Yongjia Lei, Nedim Lipka, Zhisheng Qi, Utkarsh Sahu, Yuchen Zhuang, Wenqi Shi, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi, **Yu Wang**
   <br> [[Paper]](https://arxiv.org/abs/2606.16316)
-
-- **Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction**
-  <br> Arxiv 2026
-  <br> Utkarsh Sahu, Zhisheng Qi, Li Zhu, Yizhao Yang, Jun Li, Ryan Rossi, **Yu Wang**
-  <br> [[Paper]](https://arxiv.org/abs/2606.27539)
 
 - **Sparse Personalized Text Generation with Multi-Trajectory Reasoning**
   <br> Arxiv 2026
