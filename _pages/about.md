@@ -35,7 +35,7 @@ News
 🐴 2026
 -----
 <ul>
-<li>[09] 📚 Our collaborator work on environment-policy co-evolving, <a href='https://openreview.net/forum?id=bWQSO81TTf'>VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning</a>, has been accepted at NeurIPS 2026!</li>
+<li>[09] 📚 One paper, <a href='https://openreview.net/forum?id=bWQSO81TTf'>VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning</a>, has been accepted at NeurIPS 2026!</li>
 <li>[09] 📚 Our paper <a href='https://arxiv.org/abs/2606.27539'>Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction</a> has been accepted at the NeurIPS 2026 Evaluations &amp; Datasets Track. Congratulations, Utkarsh and Zhisheng!</li>
 <li>[09] 📚 Our work with high-school student <a href='https://www.linkedin.com/in/ameliewei'>Amelie Wei</a>, <a href='https://mediasia.iafor.org/'>Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing</a>, has been accepted for presentation at MediAsia2026!</li>
 <li>[08] 📚 Our paper <a href='https://arxiv.org/abs/2509.25530'>Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG</a> accepted at EMNLP'26!</li>
