@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Yu Wang is an Assistant Professor in the [School of Computing](https://computing.uga.edu/) and [Institute of AI](https://www.ai.uga.edu/) at the University of Georgia. He directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in machine learning, Agentic AI (LLMs), and Graph-structured Data. He received his Ph.D. in Computer Science from Vanderbilt University and served as an Assistant Professor at the University of Oregon between 2024 and 2026. His overarching research vision is to harmonize structural and neural knowledge via developing structure-rigorized neural processing and neural-guided structure abstraction to build effective and trustworthy ML solutions for infrastructure and scientific applications.
+Yu Wang is an Assistant Professor in the [School of Computing](https://computing.uga.edu/) and [Institute for AI](https://www.ai.uga.edu/) at the University of Georgia. He directs the Knowledge Intelligence for Discovery and Decision-Making lab, which conducts research in machine learning, Agentic AI (LLMs), and Graph-structured Data. He received his Ph.D. in Computer Science from Vanderbilt University and served as an Assistant Professor at the University of Oregon between 2024 and 2026. His overarching research vision is to harmonize structural and neural knowledge via developing structure-rigorized neural processing and neural-guided structure abstraction to build effective and trustworthy ML solutions for infrastructure and scientific applications.
 
 📢📢📢 <span style="color:red"><b><a href="/recruiting/" style="color:red">Recruiting Ph.D. students!</a> | <a href="/recruiting-cn/" style="color:red">Recruiting post 2</a></b></span> I am actively seeking highly motivated Ph.D. students for Spring 2027 and Fall 2027. Please feel free to email me your CV, transcripts, and a brief description about why you want to work with me if you are interested!
 
@@ -41,7 +41,7 @@ News
 <li>[08] 📚 Our paper <a href='https://arxiv.org/abs/2509.25530'>Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG</a> accepted at EMNLP'26!</li>
 <li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Explainable benchmark for post-wildfire debris flow prediction!</li>
 <li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Personalized AutoResearch!</li>
-<li>[07] 🎉 Thrilled to join UGA School of Computing (SoC) and Institute of AI (IAI)!</li>
+<li>[07] 🎉 Thrilled to join UGA School of Computing (SoC) and Institute for AI (IAI)!</li>
 <li>[07] 📚 Our paper <a href='https://arxiv.org/abs/2502.06872'>Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey</a> accepted in ACM Computing Surveys (CSUR)!</li>
 <li>[07] 📚 SDM 2026 paper acceptance on <a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XPCmiz4AAAAJ&sortby=pubdate&citation_for_view=XPCmiz4AAAAJ:_B80troHkn4C'>Scaffold-aware Generation for Molecular Virtual Screening</a>, see you in Salt Lake City!</li>
 <li>[07] 🎉 Riya has been awarded Student Travel Award to attend KDD 2026!</li>
