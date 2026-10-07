@@ -21,8 +21,8 @@ If you are interested, please email your CV, transcripts, and a brief descriptio
 - <span style="color:black">System &amp; Algorithm Co-Design for Efficient and Reliable Agentic System</span>
 
 **Application:**
-- Education
 - Biomedicine
+- Education
   
 ### University of Georgia and Athens
 ------

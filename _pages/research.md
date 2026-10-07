@@ -15,5 +15,5 @@ author_profile: true
 - Structured Processing for Trustworthy Agentic AI
 
 **Applications**
-- Education
 - Biomedicine
+- Education
