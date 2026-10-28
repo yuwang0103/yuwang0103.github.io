@@ -323,7 +323,7 @@ author_profile: true
 - **Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing**
   <br> **[MediAsia 2026]** The Asian Conference on Media, Communication & Film
   <br> Amelie Wei (high-school student), **Yu Wang**
-  <br> Accepted for presentation following abstract peer review. [[Conference]](https://mediasia.iafor.org/)
+  <br> Accepted for presentation following abstract peer review. [[Presentation & Video]](https://mediasia.iafor.org/presentation/submission112733/)
 
 - **Towards Explainable Benchmarking for Data-driven Post-Wildfire Debris Flow Prediction**
   <br> **[ACM AI Leadership Summit 2026]** ACM AI Leadership Summit

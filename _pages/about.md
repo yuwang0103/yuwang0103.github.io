@@ -35,11 +35,15 @@ News
 🐴 2026
 -----
 <ul>
+<li>[10] 🎤 Delighted to co-present our research on multi-modal aesthetic content engagement analysis, <a href="https://mediasia.iafor.org/presentation/submission112733/">Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing</a>, with high-school student <a href="https://www.linkedin.com/in/ameliewei">Amelie Wei</a> at MediAsia 2026!
+<div style="position:relative; width:100%; max-width:760px; padding-top:56.25%; margin:0.75em 0 1em;">
+<iframe src="https://player.vimeo.com/video/1237839665?dnt=1" title="MediAsia 2026 presentation: Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing" loading="lazy" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute; inset:0; width:100%; height:100%; border:0;"></iframe>
+</div>
+</li>
 <li>[10] 💰 <span style="color:red"><b>Received an NSF NAIRR Pilot award for "Agentic Mechanism Discovery for Post-Wildfire Debris-Flow Prediction"!</b></span></li>
 <li>[10] 🎤 Invited talks at four UGA venues: the Education Center, LLM Club, Biochemistry Group, and Department of Statistics!</li>
 <li>[09] 📚 Our paper, <a href='https://openreview.net/forum?id=bWQSO81TTf'>VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning</a>, has been accepted at NeurIPS 2026!</li>
 <li>[09] 📚 Our paper <a href='https://arxiv.org/abs/2606.27539'>Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction</a> has been accepted at the NeurIPS 2026 Evaluations &amp; Datasets Track. Congratulations, Utkarsh and Zhisheng!</li>
-<li>[09] 📚 Our work with high-school student <a href='https://www.linkedin.com/in/ameliewei'>Amelie Wei</a>, <a href='https://mediasia.iafor.org/'>Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing</a>, has been accepted for presentation at MediAsia2026!</li>
 <li>[08] 📚 Our paper <a href='https://arxiv.org/abs/2509.25530'>Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG</a> accepted at EMNLP'26!</li>
 <li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Explainable benchmark for post-wildfire debris flow prediction!</li>
 <li>[08] 📚 One paper accepted at ACM AI Leadership Summit 2026: Personalized AutoResearch!</li>
