@@ -36,9 +36,7 @@ News
 -----
 <ul>
 <li>[10] 🎤 Delighted to co-present our research on multi-modal aesthetic content engagement analysis, <a href="https://mediasia.iafor.org/presentation/submission112733/">Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing</a>, with high-school student <a href="https://www.linkedin.com/in/ameliewei">Amelie Wei</a> at MediAsia 2026!
-<div style="position:relative; width:100%; max-width:760px; padding-top:56.25%; margin:0.75em 0 1em;">
-<iframe src="https://player.vimeo.com/video/1237839665?dnt=1" title="MediAsia 2026 presentation: Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing" loading="lazy" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute; inset:0; width:100%; height:100%; border:0;"></iframe>
-</div>
+<iframe src="https://player.vimeo.com/video/1237839665?dnt=1" title="MediAsia 2026 presentation: Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing" width="760" height="428" frameborder="0" loading="lazy" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </li>
 <li>[10] 💰 <span style="color:red"><b>Received an NSF NAIRR Pilot award for "Agentic Mechanism Discovery for Post-Wildfire Debris-Flow Prediction"!</b></span></li>
 <li>[10] 🎤 Invited talks at four UGA venues: the Education Center, LLM Club, Biochemistry Group, and Department of Statistics!</li>
