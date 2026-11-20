@@ -35,6 +35,8 @@ News
 🐴 2026
 -----
 <ul>
+<li>[11] 💰 Received IAI seed grants for biomedicine research as PI and co-PI!</li>
+<li>[11] 💰 Received an RIP seed grant for Agentic AI in Education!</li>
 <li>[10] 🐯 Invited talk at Clemson University's School of Computing!</li>
 <li>[10] 🎤 Delighted to co-present our research on multi-modal aesthetic content engagement analysis, <a href="https://mediasia.iafor.org/presentation/submission112733/">Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing</a>, with high-school student <a href="https://www.linkedin.com/in/ameliewei">Amelie Wei</a> at MediAsia 2026!
 <iframe src="https://player.vimeo.com/video/1237839665?dnt=1" title="MediAsia 2026 presentation: Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing" width="760" height="428" frameborder="0" loading="lazy" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
