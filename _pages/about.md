@@ -35,6 +35,7 @@ News
 🐴 2026
 -----
 <ul>
+<li>[11] 🎉 My Ph.D. student Zhisheng Qi received an Honorable Mention at the <a href="https://www.siam.org/conferences-events/siam-conferences/sdm26/program/special-events/">SDM 2026 Doctoral Forum</a> for his presentation, “Toward Trustworthy Neural-Symbolic Agentic Intelligence: Reasoning and Action over Structured Knowledge.” Congratulations!</li>
 <li>[11] 💰 Received IAI seed grants for biomedicine research as PI and co-PI!</li>
 <li>[11] 💰 Received an RIP seed grant for Agentic AI in Education!</li>
 <li>[10] 🐯 Invited talk at Clemson University's School of Computing!</li>
